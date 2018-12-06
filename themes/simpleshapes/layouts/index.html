@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  {{- partial "head.html" . -}}
+  <body>
+    <div class="wrapper">
+      {{- partial "header.html" . -}}
+      {{- partial "menu.html" . -}}
+      <div  class="content">
+      <section class="bio">
+        {{ .Content }}
+        {{- partial "contact.html" . -}}
+      </section>
+      <section>
+        <ul class="ui-list">
+          {{ range where .Pages.ByDate.Reverse "Section" "articles" }}
+          <li>
+            <div>
+              <div>
+                <time>{{ .Date.Format "02 Jan 2006" }}</time>
+              </div>
+              <div>
+                <a href="{{ .URL }}">{{ .Title }}</a>
+              </div>
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </section>
+    </div>
+    {{- partial "footer.html" . -}}
+    </div>
+  </body>
+</html>

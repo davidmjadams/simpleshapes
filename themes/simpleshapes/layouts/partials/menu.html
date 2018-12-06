@@ -1,0 +1,15 @@
+<div class="menu">
+    {{- partial "logo.html" . -}}
+  <nav class="nav">
+    <ul class="ui-list">
+        <li class="nav__item {{ if eq .URL "/"}}nav__item--active{{ end }}"><a class="nav__link" href="/">Me</a></li>
+        <li class="nav__item {{ if in .URL "/articles"}}nav__item--active{{ end }}" ><a class="nav__link" href="/articles">Articles</a></li>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+            <li class="nav__item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} nav__item--active{{end}}">
+                <a class="nav__link" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+            </li>
+        {{ end }}
+    </ul>
+  </nav>
+</div>

@@ -1,0 +1,4 @@
+baseURL = "https://.simpleshapes.io/"
+languageCode = "en-gb"
+title = "SimpleShapes | The home of David Adams"
+theme = "simpleshapes"
