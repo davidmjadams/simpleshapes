@@ -233,7 +233,7 @@ h5,
   margin-bottom: 3em;
 }
 
-@media (max-width: 599px) {
+@media (max-width: 649px) {
   .bio {
     text-align: center;
   }
