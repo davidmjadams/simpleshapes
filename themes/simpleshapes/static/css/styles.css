@@ -4,6 +4,11 @@ blue: #70e5cb;
 yellow: #F8E71C;
 *****/
 /***** BASE & TYPOGRAPHY *****/
+html,
+body {
+  height: 100%;
+}
+
 *,
 *:before,
 *:after {
@@ -75,9 +80,13 @@ h5,
 }
 
 @media (max-width: 649px) {
+  .menu {
+    text-align: center;
+  }
   .nav > ul {
     display: flex;
-    margin: 0;
+    margin: 0 0 0 15px;
+    justify-content: center;
   }
   .nav > ul > li {
     padding-right: 15px;
@@ -144,6 +153,7 @@ h5,
   .logo {
     width: 150px;
     max-width: 100%;
+    margin-left: 1.5em;
   }
 }
 
@@ -221,6 +231,18 @@ h5,
 .bio {
   font-size: 20px;
   margin-bottom: 3em;
+}
+
+@media (max-width: 599px) {
+  .bio {
+    text-align: center;
+  }
+  .bio > h1 {
+    font-size: 50px;
+  }
+  .bio > p {
+    text-align: left;
+  }
 }
 
 .bio > :first-child,
@@ -309,4 +331,38 @@ a:not([class]):hover::after,
   font-size: 17px;
   font-weight: 500;
   margin-top: 0;
+}
+
+@supports not (display: grid) {
+  @media (min-width: 650px) {
+    .menu {
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: 0;
+    }
+    .content {
+      margin-left: 300px;
+    }
+  }
+  .header {
+    padding: 0;
+  }
+}
+
+.browsehappy {
+  position: absolute;
+  z-index: 9999;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: white;
+  text-align: center;
+}
+
+.browsehappy > div {
+  padding-top: 10%;
+  max-width: 400px;
+  margin: auto;
 }
