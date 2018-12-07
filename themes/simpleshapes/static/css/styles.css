@@ -313,10 +313,22 @@ a:not([class]):hover::after,
 .gallery {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .gallery__item {
-  width: 33%;
   padding: 10px;
+}
+
+@media (min-width: 650px) {
+  .gallery__item {
+    width: 50%;
+  }
+}
+
+@media (min-width: 1000px) {
+  .gallery__item {
+    width: 33%;
+  }
 }
 
 .gallery__item:first-child,
