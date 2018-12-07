@@ -1,0 +1,6 @@
+{{ define "content" }}
+<h1 class="h--highlight">{{ .Title }}</h1>
+{{ .Content }}
+{{ partial "gallery.html" .Params.logos . }}
+
+{{end}}

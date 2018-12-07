@@ -1,10 +1,13 @@
 ---
 date: 2018-12-05T10:59:24Z
-draft: true
+draft: false
+profile: "/images/david.jpg"
 ---
-
-<img src="/images/david@1x.jpg" srcset="/images/david@1x.jpg 1x, /images/david@1x.jpg 2x" width="200" />
 
 # David Adams
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris faucibus velit et dolor dapibus ornare. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed pellentesque elit id ante fringilla accumsan. Curabitur quis turpis id neque ullamcorper rhoncus. Fusce cursus, leo sit amet ultricies euismod, ex augue fermentum libero, sed pharetra tortor tortor id tortor.
+I'm an all-round product person, a child of the web standards movement, currently helping to build future giants at Kamet Ventures. I love getting deep into the data to solve complex problems.
+
+I try to combine <a href="https://jtbd.info/">Jobs to be done</a>, <a href="https://en.wikipedia.org/wiki/Lean_software_development">lean software delivery</a> and <a href="https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process">design thinking</a> to build products that are useful, ethical and beautiful.
+
+I ❤️ making <a href="/logos">logos</a> for fun.

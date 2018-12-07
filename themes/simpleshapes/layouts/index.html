@@ -7,19 +7,19 @@
       {{- partial "menu.html" . -}}
       <div  class="content">
       <section class="bio">
+        <img src="{{.Params.profile}}" alt="David Adams" width="200" />
         {{ .Content }}
         {{- partial "contact.html" . -}}
       </section>
       <section>
+        <h1>Recent Articles</h1>
         <ul class="ui-list">
           {{ range where .Pages.ByDate.Reverse "Section" "articles" }}
           <li>
             <div>
               <div>
-                <time>{{ .Date.Format "02 Jan 2006" }}</time>
-              </div>
-              <div>
-                <a href="{{ .URL }}">{{ .Title }}</a>
+                <h2 class="h--list"><a href="{{ .URL }}">{{ .Title }}</a></h2>
+                <div><time>{{ .Date.Format "02 Jan 2006" }}</time></div>
               </div>
             </div>
           </li>
