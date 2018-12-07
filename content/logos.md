@@ -1,6 +1,6 @@
 ---
 title: "Logos"
-draft: true
+draft: false
 type: gallery
 menu: "main"
 logos:
