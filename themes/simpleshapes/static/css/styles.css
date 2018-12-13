@@ -237,12 +237,6 @@ h5,
   .bio {
     text-align: center;
   }
-  .bio > h1 {
-    font-size: 50px;
-  }
-  .bio > p {
-    text-align: left;
-  }
 }
 
 .bio > :first-child,
@@ -263,6 +257,15 @@ h5,
 
 .content h1 {
   margin-bottom: 0;
+}
+
+@media (max-width: 649px) {
+  .bio > h1 {
+    font-size: 50px;
+  }
+  .bio > p {
+    text-align: left;
+  }
 }
 
 .content p:first-child {
