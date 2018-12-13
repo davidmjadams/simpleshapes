@@ -2,7 +2,6 @@
 title: "Logos"
 draft: false
 type: gallery
-menu: "main"
 logos:
   - image: "/images/logos/lets-experiment-today.jpg"
     title: "Let's Expermient Today"
