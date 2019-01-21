@@ -4,13 +4,13 @@ date: 2019-01-21T12:14:27Z
 draft: false
 ---
 
-# Define your goal and messaging
+# Part 1 - Define your goal and messaging
 
-## 1. Don’t wait, prepare the ground for success now
+## Don’t wait, prepare the ground for success now
 
 When launching a new product, in the rush to get it ready, the marketing website often ends up getting pushed down the priority list. This is totally understandable, there is so much to do and so little time, it is an easy target for pushing back; you’re not launched yet, so it can wait. But this is an opportunity wasted. You could have a presence out there, starting to build a reputation. More importantly, you could be signing up potential users and gathering essential feedback, gauging audience reactions that can shape your product.
 
-## 2. What will this cover?
+## What will this cover?
 
 This guide will give you everything you need to get a killer landing page written, launched and ready to capture leads in a day or two - with only very minimal coding. It is split across 3 steps:
 
