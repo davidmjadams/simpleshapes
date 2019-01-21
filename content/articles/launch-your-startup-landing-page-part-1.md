@@ -1,7 +1,7 @@
 ---
 title: "Launch your startup landing page in a day - Part 1"
 date: 2019-01-21T12:14:27Z
-draft: true
+draft: false
 ---
 
 # Define your goal and messaging
