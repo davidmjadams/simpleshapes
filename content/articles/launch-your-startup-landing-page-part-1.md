@@ -2,6 +2,7 @@
 title: "Launch your startup landing page in a day - Part 1"
 date: 2019-01-21T12:14:27Z
 draft: false
+description: "First in a three part guide, walking through how to approach and deliver a killer startup landing page"
 ---
 
 # Part 1 - Define your goal and messaging

@@ -2,6 +2,7 @@
 title: "Building a successful MVP"
 date: 2018-12-17
 draft: false
+description: "How to build a minimum viable product without wasting time and losing focus."
 ---
 
 ![Princess Bride - "You keep using that word. I do not think it means what you think it means"](https://media.giphy.com/media/N7FeGLHjVsDQY/giphy.gif)
