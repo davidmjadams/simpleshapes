@@ -1,6 +1,6 @@
 ---
 title: "Nothing to see here"
-date: 2018-12-05T10:01:00Z
+date: 2018-12-05
 draft: false
 ---
 
