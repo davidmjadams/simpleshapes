@@ -1,6 +1,6 @@
 ---
 title: "How to build a successful MVP"
-date: 2018-17-05T14:01:00Z
+date: 2018-17-05
 draft: false
 ---
 
