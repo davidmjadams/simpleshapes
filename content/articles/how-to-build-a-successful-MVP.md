@@ -18,13 +18,13 @@ We visualise this bright future where our product is perfect and everybody loves
 
 We know that we need to ship quickly, so we take all these features and implement the minimum viable version of this.
 
-![](https://cdn-images-1.medium.com/max/3784/1*MF_0huVIf6iiMX2v_LG1-Q.jpeg)
+![Graph - multiple feature focus, average spread effectiveness](https://cdn-images-1.medium.com/max/3784/1*MF_0huVIf6iiMX2v_LG1-Q.jpeg)
 
 ## Stop there, this isn’t going to work out.
 
 It’s easy to try to do everything, but you’re going to burn out trying and probably end up with a bloated product that doesn’t know what it is.
 
-![](https://cdn-images-1.medium.com/max/2000/1*j7CHoEMd8AFIeCg4zMbaEA.png)
+![Comic strip - Richard's guide to software development](https://cdn-images-1.medium.com/max/2000/1*j7CHoEMd8AFIeCg4zMbaEA.png)
 
 ## But my product needs to have all these features
 
@@ -34,7 +34,7 @@ No. No, it doesn’t.
 
 This is usually a symptom of having a product that lacks focus.
 
-![](https://cdn-images-1.medium.com/max/5000/1*AitagZi49OsLi3CDIQUNZg.jpeg)
+![Startup plan notebook illustration](https://cdn-images-1.medium.com/max/5000/1*AitagZi49OsLi3CDIQUNZg.jpeg)
 
 ## We’ll just work extra hard to get it all done
 
@@ -54,7 +54,7 @@ A better approach is to take a step back. Identify the core problem you are tryi
 
 What is the one thing you can do to make your users life better? Find that thing, and go all in.
 
-![](https://cdn-images-1.medium.com/max/3784/1*Md71N21asxdt2IzPlGA1Vg.jpeg)
+![Graph - single feature focus, high effectiveness](https://cdn-images-1.medium.com/max/3784/1*Md71N21asxdt2IzPlGA1Vg.jpeg)
 
 Slice feature set vertically rather than horizontally. Figure out the smallest way you can solve the struggle.
 
