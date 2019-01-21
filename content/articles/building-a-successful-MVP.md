@@ -4,6 +4,8 @@ date: 2018-12-17
 draft: false
 ---
 
+![Princess Bride - "You keep using that word. I do not think it means what you think it means"](https://media.giphy.com/media/N7FeGLHjVsDQY/giphy.gif)
+
 Since the success of [the lean startup](http://theleanstartup.com/), most people in the start-up world and beyond are familiar with the concept of a [minimum viable product (MVP)](https://en.wikipedia.org/wiki/Minimum_viable_product).
 
 However, it seems, in a lot of cases, teams miss the point of an MVP. There is a whole lot of subjectivity in the viable part. Viable for what? For who? Who gets to define this? More importantly it is far too easy to try to cram one more feature in, leading to a half-baked product that doesn't fully know what it's purpose is.
