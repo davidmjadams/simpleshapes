@@ -103,7 +103,7 @@ h5,
 .content {
   grid-area: content;
   padding: 1.5em;
-  max-width: 780px;
+  max-width: 855px;
 }
 
 @media (min-width: 650px) {
@@ -200,19 +200,16 @@ h5,
 
 /***** MAIN CONTENT *****/
 .h--list,
-.h--highlight,
-.article__content > h2 {
+.h--highlight {
   margin-top: 0;
   margin-bottom: 0;
 }
 
-.h--highlight,
-.article__content > h2 {
+.h--highlight {
   display: inline-block;
 }
 
-.h--highlight::after,
-.article__content > h2::after {
+.h--highlight::after {
   content: "";
   display: block;
   width: 90%;
@@ -257,6 +254,11 @@ h5,
 
 .content h1 {
   margin-bottom: 0;
+}
+
+.article__content > h1 {
+  font-size: 32px;
+  margin-bottom: 1rem;
 }
 
 @media (max-width: 649px) {

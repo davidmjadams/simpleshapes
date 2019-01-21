@@ -12,7 +12,8 @@
         {{- partial "contact.html" . -}}
       </section>
       <section>
-        {{ range where .Pages "Section" "articles"}}
+        {{ $pages := where .Pages "Section" "articles"}}
+        {{ if len $pages }}
         <h1>Recent Articles</h1>
         {{end}}
         <ul class="ui-list">

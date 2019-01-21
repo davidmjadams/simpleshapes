@@ -1,5 +1,5 @@
 ---
-title: "How to build a successful MVP"
+title: "Building a successful MVP"
 date: 2018-12-17
 draft: false
 ---
