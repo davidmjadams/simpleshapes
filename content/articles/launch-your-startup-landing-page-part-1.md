@@ -22,7 +22,7 @@ At the end of step 3, you will have a super fast, lightweight landing page to ki
 
 It is aimed at teams who are launching a new product to market. The primary focus is on new startups, but it is still applicable to new products in existing companies.
 
-## 3. Define the goal
+## Define the goal
 
 First up, we need to have a clear focus for the page. It’s amazing how many startups end up launching a page that makes perfect sense to the team, but fails to effectively tell the outside world what it actually is they do.
 
@@ -34,7 +34,7 @@ If we take the example of an analytics product, describing it as a task or activ
 
 If you find that the problem can’t be conveyed in a succinct sentence, it’s a warning sign that it isn’t well enough defined. If you’re having trouble with this, the [Jobs to be done framework](https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca) is a great tool for defining and aligning on a purpose that can be shared across your sales, marketing, product and engineering efforts. The examples above are based on this way of thinking.
 
-## 4. Define the message
+## Define the message
 
 With your products core purpose defined, it’s time to define your message. This is how you are going to convince your potential customers that your product is the best solution to their problems. This isn’t easy to get right, but without a strong message, you’re unlikely to cut through the noise and urge your potential users into action.
 
@@ -53,7 +53,7 @@ A popular format to start with is that of strapline, followed by a sentence or t
 
 [Slack](https://slack.com/) features the headline “Imagine what you’ll accomplish together” followed by “Slack is a collaboration hub for work, no matter what work you do. It’s a place where conversations happen, decisions are made, and information is always at your fingertips. With Slack, your team is better connected”. This is most obviously appealing the pull of what you can achieve while using Slack. But it also subtly hints and the push away from your current solution. It positions Slack as a facilitator of your goals, targets and aspirations. Say you are launching a startup, it nudges your brain into thinking about the reasons that you set out on this journey. You are reminded of you want to achieve, and importantly how your life will be better at the end of this journey. Further down the page, it goes into detail about how exactly it will help you. Then backs it up showing the various high profile companies using the service, reassuring the anxiety of the switch. It then finishes up with “Try Slack with your team for free”, reducing the barriers formed by existing habits to switching, if you don’t like it, you haven’t paid anything.
 
-## 5. Copywriting
+## Copywriting
 
 It should start to get a little easier at this point. Now you’ve done the hard task of distilling your product down to its essence, you just need to back it up with evidence that your solution is the best out there. There’s a great article by [Erin Kissane on content strategy](https://alistapart.com/article/a-checklist-for-content-work) if you need a helping hand on how to write good content.
 
@@ -69,7 +69,7 @@ Starting with the [hero](https://en.wikipedia.org/wiki/Hero_image), you can see 
 
 This is then followed by “We help teams build better products”, combined with some examples of how it can help you do this. Really diving into the benefits you will get as a customer. This helps to break the allegiance to the current product, who wouldn’t want to build better products?! The page then finishes up by saying “Over 12,000 companies use Amplitude to grow their digital businesses”. Reassuring potential customers and relieving the anxiety about taking the plunge. If you follow this format and try to serve all 4 forces, you will end up with really clear messaging that is laser focussed on persuading your target customers that yours is the solution for them.
 
-## 6. Conclusion & next steps
+## Conclusion & next steps
 
 By this point, you should have a good idea of what you want your messaging to look like. Settling upon the core value you are providing to your users will make all the subsequent conversations about features, prioritisation and product marketing so much easier; They should all sing from the same hymn sheet. Remember, it only has to be a starting point, you can iterate and test different messaging using usability testing, A/B testing or both once you have your presence established.
 
