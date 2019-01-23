@@ -106,6 +106,10 @@ h5,
   max-width: 855px;
 }
 
+.content img {
+  max-width: 720px;
+}
+
 @media (min-width: 650px) {
   .content {
     padding-top: 0;
