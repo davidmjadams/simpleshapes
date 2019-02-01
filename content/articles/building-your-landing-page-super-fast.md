@@ -5,6 +5,8 @@ draft: false
 description: "A guide on how to build and launch a landing page for your new product. In very little time."
 ---
 
+![Woman using MacBook Pro on her lap](/images/building-a-website.jpg)
+
 ## Building time
 
 In this guide, we’re going walk through how to build a landing page that for your new product in ~ 1 day. It will convey your core offering, enable potential users to sign up to a waitlist, and elicit feedback on product direction.
@@ -47,11 +49,12 @@ It’s worth noting that there are also a number of free and paid template sites
 
 First up we’re going to head on over to [Uncicorn Platform](https://unicornplatform.com/). You’ll be met with a big Try Generator button.
 
+![Generator button screenshot](/images/generate-button-screenshot.png)
 /Screenshot 2019-01-31 11.25.20.png
 
 I’m then going to select App, the e-commerce - this will give me a selection of templates suited to the kind of product I want to build. There is a lot of cross-over here, so it doesn’t matter too much which you select. I’m going to go with “Simple Coming Soon I”, this gives me what I need to show off the potential app and capture eager taco fans email to gather their opinions and keep them in the loop.
 
-https://www.dropbox.com/s/m13o2tyxh644mdf/Screenshot%202019-01-31%2011.31.51.png?dl=0
+![Template screenshot](/images/template-screenshot.png)
 
 You’re not able to edit the content in the generator like other platforms, but it’s straightforward enough to do in the code - more on that later.
 
