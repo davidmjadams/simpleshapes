@@ -1,5 +1,5 @@
 ---
-title: "Writing effective content for your startup landing page"
+title: "How to write effective content for your startup landing page"
 date: 2019-01-21T12:14:27Z
 draft: false
 description: "Tips, tricks and approaches for how to write great content to deliver a killer startup landing page"

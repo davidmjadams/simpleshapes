@@ -1,11 +1,9 @@
 ---
-title: "Launch your startup landing page in a day, with little to no coding required"
-date: 2019-01-01
-draft: true
+title: "Build and launch your startup landing page in a day, with little to no coding required"
+date: 2019-02-01
+draft: false
 description: "A guide on how to build and launch a landing page for your new product. In very little time."
 ---
-
-# Launch your startup landing page in a day, with little to no coding required
 
 ## Building time
 
@@ -13,25 +11,25 @@ In this guide, we’re going walk through how to build a landing page that for y
 
 We’re going to use existing tools and shortcuts as much as possible. So will only need very minimal coding knowledge, I’ll walk you through any edits you might need to make. You will end up with a foundation that can be built upon - so you won’t have to scrap it and start again when you’re ready to develop your full site.
 
-I cover how to come up with your product messaging in [A previous post](https://simpleshapes.io/articles/launch-your-startup-landing-page-part-1/) if you need a hand on where to get started there.
+I cover how to come up with your product messaging in A [previous post](https://simpleshapes.io/articles/launch-your-startup-landing-page-part-1/) if you need a hand on where to get started there.
 
-### Who’s this for?
+## Who’s this for?
 
 Anyone starting out on a new product or startup, that wants to get their name out there, start building a reputation - but doesn’t want to divert focus too much from developing the core product. You likely have limited developer time, so it makes sense not to spend time you don’t have on your site pre-launch.
 
 But this is time you don’t want to waste. You can begin your early marketing and customer validation efforts now. A simple homepage can facilitate this. At all costs, you want to avoid spending any time and money building a product that people aren’t interested in. This will help you do that.
 
-## Lets get going
+## Let's get going
 
-Meet [Taco Button](https://infallible-borg-4ff1f6.netlify.com/), the (fictional) product we will be building the site for this guide. Taco Button is an app that delivers a daily selection of Tacos with a single touch of a button. The team are super excited to start bringing tacos to people, but they want to make sure there is sufficient demand to rent a kitchen and order the all-important swag.
+Meet [Taco Button](https://infallible-borg-4ff1f6.netlify.com/), the (fictional) product that we will be building the site for in this guide. Taco Button is an app that delivers a daily selection of Tacos with a single touch of a button. The team are super excited to start bringing tacos to people, but they want to make sure there is sufficient demand to rent a kitchen and order the all-important swag.
 
-In putting up a quick landing page, promoting it and gathering feedback - we can validate the concept, without investing any time building something that nobody wants. After all, [no market need is the number 1 reason startups fail](https://www.cbinsights.com/research/startup-failure-reasons-top/). Once we’re happy with the positioning, we have a solid base to built out a full-featured marketing site.
+In putting up a quick landing page, promoting it and gathering feedback - we can validate the concept, without investing any time building something that nobody wants. After all, no market need is the [number one reason startups fail](https://www.cbinsights.com/research/startup-failure-reasons-top/). Once we’re satisfied the product positioning is robust, we have a solid base to built out a full-featured marketing site.
 
 ## Options for doing this quickly
 
 Seeing as speed is of the essence here, we’re going to lean on existing solutions that will do a lot of the hard work for us. There are more and more tools popping up each day helping you get started. If you have one, you may want to use your designer/frontend developer here, that’s fine; remember to aim for good enough for now, perfection paralysis is real. By limiting your choices to those provided you should be able to move much faster. When you design yourself, it’s super hard to not get drawn into tweaking and tweaking, worrying that everything has to be perfect. The time to spend more time over this will come, but it isn’t now.
 
-You have a few options here, depending on what you want most out of it.
+### You have a few options here, depending on what you want most out of it.
 
 [Product hunt](https://producthunt.com) has a tool called [ship](https://www.producthunt.com/ship), if you’re looking to the fastest way to a web presence this may be for you. You can throw together a preview page with signup and survey options build in, all in about 15 minutes. The drawback being you can’t host in under your own domain, so in all but the earliest stages, it probably won't suffice on its own. It does serve as a great way to drive traffic and get feedback as a complementary tool, however. Its free for the basic package, then $50/pm or $199/pm with subsequently increasing features.
 
@@ -65,7 +63,7 @@ I’m pretty happy with this layout so far, so I’m going to go ahead and click
 
 Once you have downloaded and combined your assets, open up the `index.html` file in your favourite browser. You can refresh to keep an eye on your editing progress. Once you’ve got to grips with the layout of your site, open the index.html file in a text editor. If you’re not familiar with editing code, don’t worry - it should be ok to follow along. [VS code](https://code.visualstudio.com/), [Sublime text](https://www.sublimetext.com/3) and [Atom](https://atom.io/) are all good choices here.
 
-You can follow the [Unicorn Platform guide](https://unicornplatform.com/blog/create-awesome-landing-page-for-startup/) if you need a hand in editing your new pages content. Check out the previous post in this series if you need a helping hand figuring out your approach to content.
+You can follow the [Unicorn Platform guide](https://unicornplatform.com/blog/create-awesome-landing-page-for-startup/) if you need a hand in editing your new pages content. Check out the [previous post](https://simpleshapes.io/articles/launch-your-startup-landing-page-part-1/) in this series if you need a helping hand figuring out your approach to content.
 
 Don’t forget to [update the email signup form](https://unicornplatform.com/blog/how-to-activate-mailchimp-integration/) if you have chosen one. You can find their guide [here](https://unicornplatform.com/blog/how-to-activate-mailchimp-integration/).
 
