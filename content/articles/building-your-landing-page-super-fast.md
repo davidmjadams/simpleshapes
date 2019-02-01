@@ -50,7 +50,6 @@ It’s worth noting that there are also a number of free and paid template sites
 First up we’re going to head on over to [Uncicorn Platform](https://unicornplatform.com/). You’ll be met with a big Try Generator button.
 
 ![Generator button screenshot](/images/generate-button-screenshot.png)
-/Screenshot 2019-01-31 11.25.20.png
 
 I’m then going to select App, the e-commerce - this will give me a selection of templates suited to the kind of product I want to build. There is a lot of cross-over here, so it doesn’t matter too much which you select. I’m going to go with “Simple Coming Soon I”, this gives me what I need to show off the potential app and capture eager taco fans email to gather their opinions and keep them in the loop.
 
