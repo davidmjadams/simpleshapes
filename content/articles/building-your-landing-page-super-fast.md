@@ -13,7 +13,7 @@ In this guide, we’re going walk through how to build a landing page that for y
 
 We’re going to use existing tools and shortcuts as much as possible. So will only need very minimal coding knowledge, I’ll walk you through any edits you might need to make. You will end up with a foundation that can be built upon - so you won’t have to scrap it and start again when you’re ready to develop your full site.
 
-I cover how to come up with your product messaging in A [previous post](https://simpleshapes.io/articles/launch-your-startup-landing-page-part-1/) if you need a hand on where to get started there.
+I cover how to come up with your product messaging in A [previous post](https://simpleshapes.io/articles/writing-effective-landing-page-content/) if you need a hand on where to get started there.
 
 ## Who’s this for?
 
@@ -65,7 +65,7 @@ I’m pretty happy with this layout so far, so I’m going to go ahead and click
 
 Once you have downloaded and combined your assets, open up the `index.html` file in your favourite browser. You can refresh to keep an eye on your editing progress. Once you’ve got to grips with the layout of your site, open the index.html file in a text editor. If you’re not familiar with editing code, don’t worry - it should be ok to follow along. [VS code](https://code.visualstudio.com/), [Sublime text](https://www.sublimetext.com/3) and [Atom](https://atom.io/) are all good choices here.
 
-You can follow the [Unicorn Platform guide](https://unicornplatform.com/blog/create-awesome-landing-page-for-startup/) if you need a hand in editing your new pages content. Check out the [previous post](https://simpleshapes.io/articles/launch-your-startup-landing-page-part-1/) in this series if you need a helping hand figuring out your approach to content.
+You can follow the [Unicorn Platform guide](https://unicornplatform.com/blog/create-awesome-landing-page-for-startup/) if you need a hand in editing your new pages content. Check out the [previous post](https://simpleshapes.io/articles/writing-effective-landing-page-content/) in this series if you need a helping hand figuring out your approach to content.
 
 Don’t forget to [update the email signup form](https://unicornplatform.com/blog/how-to-activate-mailchimp-integration/) if you have chosen one. You can find their guide [here](https://unicornplatform.com/blog/how-to-activate-mailchimp-integration/).
 
