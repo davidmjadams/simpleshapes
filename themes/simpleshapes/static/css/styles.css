@@ -225,13 +225,15 @@ p + h6 {
 
 .h--highlight {
   display: inline-block;
+  line-height: 1.25;
 }
 
 .h--highlight::after {
   content: "";
   display: block;
   width: 90%;
-  margin-top: -3px;
+  margin-top: 3px;
+  margin-bottom: 6px;
   border-bottom: 5px solid #fc3498;
 }
 

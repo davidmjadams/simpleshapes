@@ -16,10 +16,10 @@ When launching a new product, in the rush to get it ready, the marketing website
 This guide will give you everything you need to get a killer landing page written, launched and ready to capture leads in a day or two - with only very minimal coding. It is split across 3 steps:
 
 Step 1: Define your goal and messaging _- this one_
-Step 2: Build and launch the landing page _- coming soon_
+Step 2: [Build and launch the landing page](https://simpleshapes.io/articles/writing-effective-landing-page-content/)
 Step 3: Adapt for scale, content management etc _- coming soon_
 
-At the end of step 3, you will have a super fast, lightweight landing page to kick start traction and create a pool of potential users or interview participants.
+At the end of guide, you will have a super fast, lightweight landing page to kick start traction and create a pool of potential users or interview participants.
 
 It is aimed at teams who are launching a new product to market. The primary focus is on new startups, but it is still applicable to new products in existing companies.
 
@@ -76,4 +76,4 @@ By this point, you should have a good idea of what you want your messaging to lo
 
 Start writing, get everything down first, then you can cut down to the essential. Don’t worry about where things will feature yet. Strong messaging will be the core that everything else will grow from. Remember, [write hot, edit cold](https://books.google.co.uk/books?id=p36ErrGRq88C&pg=PA83&lpg=PA83&dq=write+hot,+edit+cold#v=onepage&q=write%20hot%2C%20edit%20cold&f=false).
 
-Once you have this all down on paper, it should make the next steps easier. Namely building the thing. Step 2 (coming soon) of this guide is a walkthrough on how to actually build and launch a killer landing page that converts.
+Once you have this all down on paper, it should make the next steps easier. Namely building the thing. The [next article in this series](https://simpleshapes.io/articles/writing-effective-landing-page-content/) is a walkthrough on how to actually build and launch a killer landing page that converts.
