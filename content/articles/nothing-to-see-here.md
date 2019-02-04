@@ -6,4 +6,4 @@ draft: false
 
 ## Oh, hello there
 
-Somehow you have made it here before I've added any articles. Come back soon, I promise there will be something here 🙃.
+This is the first post, I should delete it - but I don't really want to 🙃.
