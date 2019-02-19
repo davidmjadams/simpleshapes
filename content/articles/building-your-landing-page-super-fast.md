@@ -37,9 +37,9 @@ Seeing as speed is of the essence here, we’re going to lean on existing soluti
 
 [Carrd](https://carrd.co/) is the next step up in this set of tools. It is, in essence, a website builder, there are a number of free layout and widgets. To get the full suite of tools - forms, custom domains it is \$9/per year. You can put together a surprisingly attractive and powerful landing page in minutes. If you just want something to keep you going in the short term, this will probably do you for a good while. In our case, we want to create something that we can build upon to flesh it out into a full site over time. If you just want a quick effective page, this may well be the option for you.
 
-If you are looking for an entirely managed solution, that you can edit yourself and can be built without a developer or designer, then you probably don't need to look any further than [Squarespace](https://www.squarespace.com/).
+If you are looking for an entirely managed solution, that you can edit yourself and can be built without a developer or designer, then it's hard to look beyond [Squarespace](https://www.squarespace.com/).
 
-If you have a designer that is keen to put their stamp on the company brand, then [Webflow](https://webflow.com/) is a great option. It’s really designer-friendly and can output static sites or CMS hosted options. It is more in-depth than we need right now, but worth considering if the above describes your situation.
+If you have a designer that is keen to put their stamp on the company brand, consider [Webflow](https://webflow.com/). It’s really designer-friendly and can output static sites or CMS hosted options. It is more in-depth than we need right now, but worth considering if the above describes your situation.
 
 We are going to take a different approach here. We want to keep most of the speed of the above solutions, but give us the flexibility to adapt to our more specific needs over time. Enter [Uncicorn Platform](https://unicornplatform.com/). Unicorn Platform is a static file (HTML, CSS, JS) generator, that gives you various website components to chose from and piece together to create your site. The power of this is that you don’t have to spend the time designing and developing a site. You have the flexibility to tweak and edit as you like to take a proven format and personalise it enough to make it unique. You then have everything you need in place to build it into a full site when you need it.
 
@@ -70,6 +70,8 @@ You can follow the [Unicorn Platform guide](https://unicornplatform.com/blog/cre
 Don’t forget to [update the email signup form](https://unicornplatform.com/blog/how-to-activate-mailchimp-integration/) if you have chosen one. You can find their guide [here](https://unicornplatform.com/blog/how-to-activate-mailchimp-integration/).
 
 ## Ship it!
+
+![TacoButton screenshot](/images/taco-button-screenshot.png)
 
 Step 7 of the unicorn platform documentation lists a few options for uploading and hosting your new site. But we’re going to look at an alternative, and better option [Netlify](https://netlify.com). Netlify is an incredible platform for hosting and managing modern web apps and sites. It’s easy to upload and host your site, and you get a purpose-built scalable infrastructure optimised for performance. Things like asset minification and optimisation are baked in. It also comes with a suite of tools for enriching what may start out as a static site - such as forms, CMS support and cloud/lambda functions. Best of all you can go a long way using only the free platform.
 

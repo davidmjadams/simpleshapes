@@ -52,7 +52,9 @@ For your messaging to be successful, you should appeal to and reassure these 4 f
 
 A popular format to start with is that of strapline, followed by a sentence or two backing this up ie what are you solving and how do you solve it.
 
-[Slack](https://slack.com/) features the headline “Imagine what you’ll accomplish together” followed by “Slack is a collaboration hub for work, no matter what work you do. It’s a place where conversations happen, decisions are made, and information is always at your fingertips. With Slack, your team is better connected”. This is most obviously appealing the pull of what you can achieve while using Slack. But it also subtly hints and the push away from your current solution. It positions Slack as a facilitator of your goals, targets and aspirations. Say you are launching a startup, it nudges your brain into thinking about the reasons that you set out on this journey. You are reminded of you want to achieve, and importantly how your life will be better at the end of this journey. Further down the page, it goes into detail about how exactly it will help you. Then backs it up showing the various high profile companies using the service, reassuring the anxiety of the switch. It then finishes up with “Try Slack with your team for free”, reducing the barriers formed by existing habits to switching, if you don’t like it, you haven’t paid anything.
+[Slack](https://slack.com/) features the headline “Imagine what you’ll accomplish together” followed by “Slack is a collaboration hub for work, no matter what work you do. It’s a place where conversations happen, decisions are made, and information is always at your fingertips. With Slack, your team is better connected”.
+
+This is most obviously appealing to the pull of what you can achieve while using Slack. But it also subtly hints and the push away from your current solution. It positions Slack as a facilitator of your goals, targets and aspirations. Say you are launching a startup, it nudges your brain into thinking about the reasons that you set out on this journey. You are reminded of you want to achieve, and importantly how your life will be better at the end of this journey. Further down the page, it goes into detail about how exactly it will help you. Then backs it up showing the various high profile companies using the service, reassuring the anxiety of the switch. It then finishes up with “Try Slack with your team for free”, reducing the barriers formed by existing habits to switching, if you don’t like it, you haven’t paid anything.
 
 ## Copywriting
 
@@ -62,9 +64,7 @@ If you are sticking to a splash page format (hero and explainer paragraphs), you
 
 Have a look at a variety of both competing and unrelated products sites to yours. [Product Hunt](https://www.producthunt.com/) is a good resource for examples of new product launches. Make a note of the ones that you think are effective. You can borrow some of the approaches to messaging that you think communicate the products well.
 
-If we continue with the analytics example from earlier, [Amplitude](https://amplitude.com/) has some effective messaging.
-
-Starting with the [hero](https://en.wikipedia.org/wiki/Hero_image), you can see the heading and explainer:
+If we continue with the analytics example from earlier, [Amplitude](https://amplitude.com/) has some effective messaging. Starting with the [hero](https://en.wikipedia.org/wiki/Hero_image), you can see the heading and explainer:
 “Product Analytics for the Digital Era”
 “Truly understand what makes your users tick, rapidly release better product experiences, and grow your business across web and mobile.” - this establishes the service offering and the insights it can provide. This gives a push away from the current solution “I don’t truly understand my users”, but also a pull towards building better product experiences.
 
