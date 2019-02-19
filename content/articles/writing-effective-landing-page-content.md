@@ -15,9 +15,9 @@ When launching a new product, in the rush to get it ready, the marketing website
 
 This guide will give you everything you need to get a killer landing page written, launched and ready to capture leads in a day or two - with only very minimal coding. It is split across 3 steps:
 
-Step 1: Define your goal and messaging _- this one_
-Step 2: [Build and launch the landing page](https://simpleshapes.io/articles/writing-effective-landing-page-content/)
-Step 3: Adapt for scale, content management etc _- coming soon_
+- Step 1: Define your goal and messaging _– this one_
+- Step 2: [Build and launch the landing page](https://simpleshapes.io/articles/writing-effective-landing-page-content/)
+- Step 3: Adapt for scale, content management etc _– coming soon_
 
 At the end of guide, you will have a super fast, lightweight landing page to kick start traction and create a pool of potential users or interview participants.
 
