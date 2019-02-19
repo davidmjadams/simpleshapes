@@ -121,11 +121,17 @@ p + h6 {
 }
 
 .content img {
-  max-width: 720px;
   box-shadow: 0 0 1px rgba(0, 0, 0, 0.2);
 }
 
+@media (min-width: 900px) {
+  max-width: 720px;
+}
+
 @media (min-width: 650px) {
+  .header {
+    padding: 1.5em;
+  }
   .content {
     padding-top: 0;
   }
@@ -134,12 +140,6 @@ p + h6 {
   .content {
     margin-left: 7.5%;
     margin-right: 7.5%;
-  }
-}
-
-@media (min-width: 650px) {
-  .header {
-    padding: 1.5em;
   }
 }
 
