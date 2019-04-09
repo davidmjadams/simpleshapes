@@ -11,8 +11,8 @@ logos:
     title: "Hummingbird Technologies"
   - image: "/images/logos/hearbit.jpg"
     title: "Heartbit"
-  - image: "/images/logos/mettlesome.jpg"
-    title: "Mettlesome"
+  - image: "/images/logos/porthole.jpg"
+    title: "Porthole"
   - image: "/images/logos/forest-wines.jpg"
     title: "Forest Wines"
 ---
