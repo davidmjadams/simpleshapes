@@ -35,11 +35,19 @@ There is a weakness in standard gantt charts, that while they allocate a time pe
 
 At first glance the hill chart seems like a great way of giving a human estimate on where things stand, how much uncertainty is reamianing and whteher and major issues have been uncovered.
 
+## Launching a new product
+
+![The phases of new product development, visualised as a hill chart](/images/hill-chart.jpg)
+
+In my job at [Kamet](https://www.kametventures.com/), I'm often focussed on helping startups create and launch brand new products. When I saw the hill chart visualisation, it immediately struck a chord with me. There are loosely 4 four phases we tend to go through: generative research, experimentation, development of the MVP of the product and finally product delivery, feedback and rework. This really neatly maps to the hill metaphor, to describe the level of clarity and direction you have at each stage. The first two, you are trying to clarify, de-risk and understand (heading up the hill), then you can see where you are going from the top, and you are executing in a known field.
+
 ## Terrain maps
 
 The imagery of a hill is a powerful one, when you are figuring out how to approach a problem you spend a lot of time in uncertainty without a quantifiable end in sight. But once you inderstand what needs to be done, when hypothesese have been tested you are heading back down the hill into more stable territory.
 
 This led me onto thinking about how you may be able to rethink the gantt chart, to incorporate these 2 phases of developing new features. If each feature has a hill, a roadmap is just a succession of hills. Whether you are building an MVP or augmenting a mature product you ideally want to work through your scariest or most uncertain tasks first - working your way into known territory iteratively. Each one of these is a hill.
+
+![Succession of hill charts, forming a longer term road/terrain map](/images/terrain-map.jpg)
 
 You then can line up each hill overlap them slightly so as your team if finishing up with one hill, they are transitioning to discovery of a new hill. This probably works and scales on a team/squad level. So for specific feature sets or products within a catalogue of products.
 
