@@ -25,13 +25,16 @@ video {
   max-width: 100%;
 }
 
+html {
+  font-size: 18px;
+}
+
 body {
   font-family: poynter-oldstyle-text, serif;
   padding: 0;
   margin: 0;
   line-height: 1.5;
   color: #212121;
-  font-size: 18px;
 }
 
 h1,
@@ -39,11 +42,11 @@ h2 {
   font-family: itc-avant-garde-gothic-pro, sans-serif;
   font-weight: 700;
   font-style: normal;
-  font-size: 36px;
+  font-size: 2rem;
 }
 
 h2 {
-  font-size: 26px;
+  font-size: 1.444rem;
 }
 
 h3,
@@ -93,7 +96,7 @@ p + h6 {
   padding: 1.5em;
 }
 
-@media (max-width: 649px) {
+@media (max-width: 899px) {
   .menu {
     text-align: center;
   }
@@ -107,7 +110,7 @@ p + h6 {
   }
 }
 
-@media (min-width: 650px) {
+@media (min-width: 900px) {
   .menu {
     max-width: 315px;
     min-width: 180px;
@@ -132,7 +135,7 @@ p + h6 {
   max-width: 720px;
 }
 
-@media (min-width: 650px) {
+@media (min-width: 900px) {
   .header {
     padding: 1.5em;
   }
@@ -151,7 +154,7 @@ p + h6 {
   grid-area: footer;
 }
 
-@media (min-width: 650px) {
+@media (min-width: 900px) {
   .wrapper {
     display: grid;
     width: 100vw;
@@ -179,10 +182,17 @@ p + h6 {
     margin-left: 1.5em;
   }
 }
+@media (min-width: 600px) and (max-width: 899px) {
+  .logo {
+    width: 175px;
+    max-width: 100%;
+    margin-left: 1.5em;
+  }
+}
 
 /***** MENU *****/
 .nav {
-  font-size: 20px;
+  font-size: 1.111rem;
   font-family: itc-avant-garde-gothic-pro, sans-serif;
   font-weight: 500;
 }
@@ -246,18 +256,21 @@ p + h6 {
 }
 
 .subhead {
-  font-size: 14px;
+  font-size: 0.7778rem;
   font-family: itc-avant-garde-gothic-pro, sans-serif;
 }
 
 .bio {
-  font-size: 20px;
+  font-size: 1.111rem;
   margin-bottom: 3em;
 }
 
-@media (max-width: 649px) {
+@media (max-width: 899px) {
   .bio {
     text-align: center;
+  }
+  .bio > img {
+    max-width: 175px;
   }
 }
 
@@ -269,7 +282,7 @@ p + h6 {
 
 .h--jumbo,
 .bio > h1 {
-  font-size: 56px;
+  font-size: 3.111rem;
   margin-top: 0;
 }
 
@@ -282,13 +295,13 @@ p + h6 {
 }
 
 .article__content > h1 {
-  font-size: 32px;
+  font-size: 1.778rem;
   margin-bottom: 1rem;
 }
 
-@media (max-width: 649px) {
+@media (max-width: 899px) {
   .bio > h1 {
-    font-size: 50px;
+    font-size: 2.778rem;
   }
   .bio > p {
     text-align: left;
@@ -309,7 +322,7 @@ hr.section-divider {
 }
 
 hr.section-divider:before {
-  font-size: 30px;
+  font-size: 1.667rem;
   letter-spacing: 0.6em;
   content: "...";
   display: inline-block;
@@ -369,7 +382,7 @@ a:not([class]):hover::after,
   padding: 10px;
 }
 
-@media (min-width: 650px) {
+@media (min-width: 900px) {
   .gallery__item {
     width: 50%;
   }
@@ -390,13 +403,13 @@ a:not([class]):hover::after,
 }
 
 .gallery__title {
-  font-size: 17px;
+  font-size: 0.9444rem;
   font-weight: 500;
   margin-top: 0;
 }
 
 @supports not (display: grid) {
-  @media (min-width: 650px) {
+  @media (min-width: 900px) {
     .menu {
       position: fixed;
       top: 0;

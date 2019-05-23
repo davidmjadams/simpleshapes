@@ -2,7 +2,7 @@
 date: 2018-12-05T10:59:24Z
 draft: false
 profile: "/images/david.jpg"
-description: "SimpleShapes, the home of product development junkie David Adams"
+description: "SimpleShapes, the home of David Adams"
 ---
 
 # David Adams
