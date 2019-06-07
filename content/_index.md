@@ -5,7 +5,7 @@ profile: "/images/david.jpg"
 description: "SimpleShapes, the home of David Adams"
 ---
 
-# David Adams
+# Hi, I'm David
 
 I'm an all-round product person, a child of the web standards movement, currently helping to build future giants at <a href="https://www.kametventures.com/">Kamet Ventures</a>. I love getting deep into the data to solve complex problems.
 
