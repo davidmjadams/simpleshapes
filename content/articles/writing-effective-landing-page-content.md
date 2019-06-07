@@ -19,7 +19,7 @@ This guide will give you everything you need to get a killer landing page writte
 - Step 2: [Build and launch the landing page](https://simpleshapes.io/articles/writing-effective-landing-page-content/)
 - Step 3: Adapt for scale, content management etc _– coming soon_
 
-At the end of guide, you will have a super fast, lightweight landing page to kick start traction and create a pool of potential users or interview participants.
+At the end of the guide, you will have a super fast, lightweight landing page to kick start traction and create a pool of potential users or interview participants.
 
 It is aimed at teams who are launching a new product to market. The primary focus is on new startups, but it is still applicable to new products in existing companies.
 
@@ -50,7 +50,7 @@ There are 4 forces that influence a customer switch:
 
 For your messaging to be successful, you should appeal to and reassure these 4 forces.
 
-A popular format to start with is that of strapline, followed by a sentence or two backing this up ie what are you solving and how do you solve it.
+A popular format to start with is that of the strapline, followed by a sentence or two backing this up ie what are you solving and how do you solve it.
 
 [Slack](https://slack.com/) features the headline “Imagine what you’ll accomplish together” followed by “Slack is a collaboration hub for work, no matter what work you do. It’s a place where conversations happen, decisions are made, and information is always at your fingertips. With Slack, your team is better connected”.
 
