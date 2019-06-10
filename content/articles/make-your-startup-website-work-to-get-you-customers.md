@@ -42,7 +42,7 @@ In the very first period around launch, it is generally more effective to opt fo
 
 ## Gather insight and feedback on what customers are looking to get out of the product
 
-As soon as you have noticed an intent to engage with your product, such as requesting a callback or sending an intercom message its a golden opportunity to find out why they came to your site and what they are seeking to achieve. By asking a few key questions at the time of capture, you can start to build up a picture of what your users are looking for and why they came to you for it. This can be as simple as integrating a [Typeform](https://www.typeform.com/) or [Google Forms](https://www.google.co.uk/forms/about/) survey into your email capture flow or asking some targeted questions in your Intercom/Drift engagement.
+At the moment a potential customer engages with your product, such as requesting a callback or sending an intercom message, there is a golden opportunity to find out why they came to your site and what they are seeking to achieve. By asking a few key questions at the time of capture, you can start to build up a picture of what your users are looking for and why they came to you for it. This can be as simple as integrating a [Typeform](https://www.typeform.com/) or [Google Forms](https://www.google.co.uk/forms/about/) survey into your email capture flow or asking some targeted questions in your Intercom/Drift engagement.
 
 ## Conclusion
 
