@@ -1,14 +1,14 @@
 ---
 title: "Make your startup website work to get you customers"
-date: 2019-06-07
-draft: true
+date: 2019-06-10
+draft: false
 description: "Tools and techniques for optimising conversion on startup's marketing website."
 ---
 
 ![A pile of assorted startup books](/images/startup-books.jpg)
 As a startup, when you’re just getting started and laucnhing your website, it’s really important to set it up to work for you. To turn visitors into customers.
 
-To do this it’s important to clearly state what they will be able to do with your help. For B2C products, it can be any range of social, productivity or life-quality benefits. With B2B it usually comes down to unlocking revenue potential.
+To do this, it’s important to clearly state what they will be able to achieve with your help. For B2C products, it can be any range of social, productivity or life-quality benefits. With B2B it usually comes down to unlocking revenue potential.
 
 To maximise the conversion of visitors into customers, your site needs to be effective. To give it the best chance of being effective, it needs to:
 
@@ -35,16 +35,14 @@ A/B testing can be a really powerful tool for optimising your website’s messag
 
 The major caveat to this, is that for A/B testing to be effective, you need to have a reasonable amount of traffic – most experiments will require at least a few thousand to show statistical significance.
 
-Obviously as a newly launched startup, you might no be there quite yet. If you have relatively low visitor numbers, major design changes, rather than tweaking around the edges are more likely to show significant changes in user behaviour. You can use a [sample size calculator](https://www.evanmiller.org/ab-testing/sample-size.html) to work out how large a sample you will need.
+Obviously, as a newly launched startup, you might not be there quite yet. If you have relatively low visitor numbers, major design changes, rather than tweaking around the edges are more likely to show significant changes in user behaviour. You can use a [sample size calculator](https://www.evanmiller.org/ab-testing/sample-size.html) to work out how large a sample you will need.
 
 In the very first period around launch, it is generaly more effective to opt for usability testing instead. You will get deeper, qualitative insight into how your users are receiving your product and message. [UserTesting](usertesting.com) and [Lookback](https://lookback.io/) both offer great solutions for getting fast insights. UserTesting can handle the participant recruitment for you, Lookback requires you to provide your own participants. You can also use services such as [Respondent](respondent.io) to source your them for you.
 
 ## Gather insight and feedback on what customers are looking to get out of the product
 
-As soon as you have noticed an intent to engage with your product, such as requesting a callback or sending an intercom message its a golden opportunity to find out why they came to your site and what they are seeking to achieve. By asking a few key questions at the time of capture, you can start to build up a picutre of what your users are looking for and why they came to you for it. This can be as simple as integrating a [Typeform](https://www.typeform.com/) or [Google Forms](https://www.google.co.uk/forms/about/) survey into your email capture flow, or asking some targeted questions in your intercom/drift engagement.
+As soon as you have noticed an intent to engage with your product, such as requesting a callback or sending an intercom message its a golden opportunity to find out why they came to your site and what they are seeking to achieve. By asking a few key questions at the time of capture, you can start to build up a picutre of what your users are looking for and why they came to you for it. This can be as simple as integrating a [Typeform](https://www.typeform.com/) or [Google Forms](https://www.google.co.uk/forms/about/) survey into your email capture flow, or asking some targeted questions in your Intercom/Drift engagement.
 
 ## Conclusion
 
-There are almost unlimited tools and techniques available to optimize your website, the choice can be overwhelming. But as long as you are putting some effort into measuring visitors, qualifying leads, optimizing conversion, and gathering feedback you are on the right track.
-
-Try things out, but be patient and don’t over do it.
+There are almost unlimited tools and techniques available to optimize your website, the choice can be overwhelming. But as long as you are putting some effort into measuring visitors, qualifying leads, optimizing conversion, and gathering feedback you are on the right track. Pick one or two things to focus on at a time, otherwise it will be hard to tell which changes are working.
