@@ -20,7 +20,7 @@ To maximise the conversion of visitors into customers, your site needs to be eff
 
 ## Measure the total number of visitors and their behaviour
 
-Measuring visitors is an easy first step, there are a whole host of analytics tools available. For marketing websites, [Google Analytics](https://marketingplatform.google.com/about/analytics/) is a market leader, has everything you need to get started quickly and importantly for a startup – is free.
+Measuring visitors is an easy first step, there are a whole host of analytics tools available. For marketing websites, [Google Analytics](https://marketingplatform.google.com/about/analytics/) is a market leader, has everything you need to get started quickly and importantly for a startup – is free. There are a number of other good options for analytics such as [MixPanel](https://mixpanel.com/), [Amplitude](https://amplitude.com/) and [Heap](https://heap.io/). However, these products really come into their own when used with apps/web apps, when your interaction events are much more customised to your specific product. For a website where page views and signup funnels are your main concern, [GA](https://marketingplatform.google.com/about/analytics/) should have all you need.
 
 ## Convert as many of these visitors as possible into qualified leads
 
