@@ -17,7 +17,7 @@
         <h1>Recent Articles</h1>
         {{end}}
         <ul class="ui-list">
-          {{ range where .Pages.ByDate.Reverse "Section" "articles" }}
+          {{ range first 5 (where .Pages.ByDate.Reverse "Section" "articles") }}
           <li>
             <div>
               <div>
@@ -27,6 +27,11 @@
             </div>
           </li>
           {{ end }}
+          {{ if gt (len $pages) 5 }}
+          <div class="more-link">
+              <a href="/articles">View all articles</a>
+          </div>
+          {{end}}
         </ul>
       </section>
     </div>

@@ -89,6 +89,17 @@ p + h6 {
 .align--center {
   text-align: center;
 }
+.push {
+  margin: 1.5em;
+}
+.push--ends {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+.push--sides {
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+}
 /***** GRID BASE LAYOUT *****/
 .menu {
   grid-area: sidebar;
@@ -372,6 +383,14 @@ a:not([class]):hover::after,
 .link:hover::after {
   width: 105%;
   background-color: #fc3498;
+}
+
+.more-link {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  font-family: itc-avant-garde-gothic-pro, sans-serif;
+  font-weight: 700;
+  font-size: 0.9em;
 }
 
 /***** GALLERY *****/
