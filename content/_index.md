@@ -7,7 +7,7 @@ description: "SimpleShapes, the home of David Adams"
 
 # Hi, I'm David
 
-I'm an all-round product person, a child of the web standards movement, currently helping to build future giants at <a href="https://www.kametventures.com/">Kamet Ventures</a>. I love building startups and solving complex problems.
+I'm a product manager, software engineer and sometime designer, currently helping to build future giants at <a href="https://www.kametventures.com/">Kamet Ventures</a>. I love building startups and solving complex problems.
 
 I try to combine <a href="https://jtbd.info/">jobs to be done</a>, <a href="https://en.wikipedia.org/wiki/Lean_software_development">lean software delivery</a> and <a href="https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process">design thinking</a> to build products that are useful, ethical and beautiful.
 
