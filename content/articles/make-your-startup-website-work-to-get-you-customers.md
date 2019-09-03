@@ -5,7 +5,7 @@ draft: false
 description: "Tools and techniques for optimising conversion on startup's marketing website."
 ---
 
-{{< img src="/images/startup-books.jpg?nf_resize=fit&w=810" alt="A pile of assorted startup books" >}}
+{{< img src="/images/startup-books.jpg" alt="A pile of assorted startup books">}}
 
 As a startup, when you’re just getting started and launching your website, it’s really important to set it up to work for you. To turn visitors into customers.
 
