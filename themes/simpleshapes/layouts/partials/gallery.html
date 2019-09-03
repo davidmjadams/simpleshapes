@@ -1,7 +1,7 @@
 <ul class="ui-list gallery">
   {{ range .}}
   <li class="gallery__item">
-      <img class="gallery__image" src="{{ .image }}" alt="{{ .title }} logo" width="225"/>
+      <img class="gallery__image" src="{{ .image }}?nf_resize=fit&w=225" alt="{{ .title }} logo" width="225"/>
   </li>
   {{ end }}
 </ul>
