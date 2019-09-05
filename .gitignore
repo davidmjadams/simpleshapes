@@ -1,3 +1,4 @@
 .DS_Store
 themes/simpleshapes/static/images/.DS_Store
-public/
+public/*
+!public/_redirects
