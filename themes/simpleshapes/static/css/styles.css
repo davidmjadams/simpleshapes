@@ -284,6 +284,8 @@ p + h6 {
   }
   .bio > img {
     max-width: 175px;
+    margin-right: auto;
+    margin-left: auto;
   }
 }
 
