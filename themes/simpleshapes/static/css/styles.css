@@ -335,6 +335,15 @@ p + h6 {
   margin-top: 0;
 }
 
+.quote {
+  padding: 1.15em;
+  font-style: italic;
+}
+
+.quote__citation {
+  font-weight: bold;
+}
+
 hr.section-divider {
   display: block;
   border: 0;
