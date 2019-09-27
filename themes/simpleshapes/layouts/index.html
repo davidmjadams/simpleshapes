@@ -9,7 +9,7 @@
       <section class="bio">
         <img src="{{.Params.profile}}" alt="David Adams" width="200" />
         {{ .Content }}
-        {{- partial "contact.html" . -}}
+        {{- partial "contact.html" (dict "location" "page" ) -}}
       </section>
       <section>
         {{ $pages := where .Pages "Section" "articles"}}

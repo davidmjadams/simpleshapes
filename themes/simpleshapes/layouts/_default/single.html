@@ -12,4 +12,8 @@
     {{ .Content }}
   </div>
 </article>
+<div class="more-link">
+  <a href="/articles">View all articles</a>
+</div>
+{{- partial "contact.html" (dict "location" "footer" ) -}}
 {{ end }}

@@ -295,6 +295,14 @@ p + h6 {
   margin-bottom: 0;
 }
 
+.contact--footer {
+  margin-top: 2.5em;
+}
+
+.contact--footer h1 {
+  font-size: 1.2rem;
+}
+
 .h--jumbo,
 .bio > h1 {
   font-size: 3.111rem;
@@ -388,7 +396,7 @@ a:not([class]):hover::after,
 }
 
 .more-link {
-  margin-top: 1.5em;
+  margin-top: 2em;
   margin-bottom: 1.5em;
   font-family: itc-avant-garde-gothic-pro, sans-serif;
   font-weight: 700;
