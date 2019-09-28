@@ -1,6 +1,6 @@
 ---
 title: "How to write effective content for your startup landing page"
-date: 2019-01-21T12:14:27Z
+date: 2019-08-09
 draft: false
 description: "Tips, tricks and approaches for how to write great content to deliver a killer startup landing page"
 ---
@@ -10,18 +10,6 @@ description: "Tips, tricks and approaches for how to write great content to deli
 ![Wireframe sketch](/images/wireframe-sketch.jpg)
 
 When launching a new product, in the rush to get it ready, the marketing website often ends up getting pushed down the priority list. This is totally understandable, there is so much to do and so little time, it is an easy target for pushing back; you’re not launched yet, so it can wait. But this is an opportunity wasted. You could have a presence out there, starting to build a reputation. More importantly, you could be signing up potential users and gathering essential feedback, gauging audience reactions that can shape your product.
-
-## What will this cover?
-
-This guide will give you everything you need to get a killer landing page written, launched and ready to capture leads in a day or two - with only very minimal coding. It is split across 3 steps:
-
-- Step 1: Define your goal and messaging _– this one_
-- Step 2: [Build and launch the landing page](https://simpleshapes.io/articles/writing-effective-landing-page-content/)
-- Step 3: Adapt for scale, content management etc _– coming soon_
-
-At the end of the guide, you will have a super fast, lightweight landing page to kick start traction and create a pool of potential users or interview participants.
-
-It is aimed at teams who are launching a new product to market. The primary focus is on new startups, but it is still applicable to new products in existing companies.
 
 ## Define the goal
 
@@ -70,10 +58,8 @@ If we continue with the analytics example from earlier, [Amplitude](https://ampl
 
 This is then followed by “We help teams build better products”, combined with some examples of how it can help you do this. Really diving into the benefits you will get as a customer. This helps to break the allegiance to the current product, who wouldn’t want to build better products?! The page then finishes up by saying “Over 12,000 companies use Amplitude to grow their digital businesses”. Reassuring potential customers and relieving the anxiety about taking the plunge. If you follow this format and try to serve all 4 forces, you will end up with really clear messaging that is laser focussed on persuading your target customers that yours is the solution for them.
 
-## Conclusion & next steps
+## Start writing
 
 By this point, you should have a good idea of what you want your messaging to look like. Settling upon the core value you are providing to your users will make all the subsequent conversations about features, prioritisation and product marketing so much easier; They should all sing from the same hymn sheet. Remember, it only has to be a starting point, you can iterate and test different messaging using usability testing, A/B testing or both once you have your presence established.
 
 Start writing, get everything down first, then you can cut down to the essential. Don’t worry about where things will feature yet. Strong messaging will be the core that everything else will grow from. Remember, [write hot, edit cold](https://books.google.co.uk/books?id=p36ErrGRq88C&pg=PA83&lpg=PA83&dq=write+hot,+edit+cold#v=onepage&q=write%20hot%2C%20edit%20cold&f=false).
-
-Once you have this all down on paper, it should make the next steps easier. Namely building the thing. The [next article in this series](https://simpleshapes.io/articles/writing-effective-landing-page-content/) is a walkthrough on how to actually build and launch a killer landing page that converts.
