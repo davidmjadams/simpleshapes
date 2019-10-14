@@ -1,6 +1,6 @@
 ---
 title: "Creating a high performing product organisation"
-date: 2019-10-15
+date: 2019-10-14
 draft: false
 image: "images/fortune-cookie.jpg"
 ---
