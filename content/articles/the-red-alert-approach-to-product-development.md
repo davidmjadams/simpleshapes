@@ -3,6 +3,7 @@ title: "The red alert approach to product development"
 date: 2019-08-23
 draft: false
 description: "Building products is hard, the Command & Conquer: Red Alert approach to product development keeps me sane."
+image: "images/command-and-conquer.jpg"
 ---
 
 ![Screen shot of Command and Conquer: Red Alert game play](/images/command-and-conquer.jpg)
