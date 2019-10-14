@@ -4,7 +4,7 @@
   <h1 class="h--highlight">{{ .Title }}</h1>
   {{ if not .Date.IsZero }}
   <div class="subhead">
-    <time>{{ .Date.Format "02 Jan 2006" }}</time>
+    <time>{{ .Date.Format "02 Jan 2006" }}</time> &bull; {{ .ReadingTime }} min read
   </div>
   {{ end }}
 </header>

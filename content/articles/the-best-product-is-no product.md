@@ -2,7 +2,8 @@
 title: "The best product is no product"
 date: 2019-09-27
 draft: false
-description: "Thoughts on how to avoid rushing to build things, and focus on the problem you're really trying to solve"
+description: "The best product is no product. The best UX is no UX. The best code is no code. Pretty much everything I, and probably you, have worked on would be better if it wasn’t there."
+image: "images/blank-slate.jpg"
 ---
 
 ![White pencil on black platform](/images/blank-slate.jpg)

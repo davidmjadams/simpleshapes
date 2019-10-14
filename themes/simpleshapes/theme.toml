@@ -15,6 +15,7 @@ sectionPagesMenu = "main"
   name = "David Adams"
   homepage = ""
 
+
 # If porting an existing theme
 [original]
   name = ""
