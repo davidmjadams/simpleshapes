@@ -13,7 +13,7 @@ Over the past few years, I’ve worked for organisations of all shapes and sizes
 
 ## The team
 
-I’d choose a great team and a less exciting product over a fascinating subject matter and a bad team. I’m not talking about the skills and abilities of the team. They are valuable, but the functioning of the team is so much more important. [maybe move under trust] I’m convinced the vast majority of people working in our industry are smart and have huge potential. The environment and support they receive are vital in unlocking this potential. The first step and a hard one for many is trust.
+I’d choose a great team and a less exciting product over a fascinating subject matter and a bad team any day.  I’m not talking about the skills and abilities of the team. They are valuable, but the functioning of the team is so much more important. I’m convinced the vast majority of people working in our industry are smart and have huge potential. The environment and support they receive are vital in unlocking this potential. The first step and a hard one for many is trust.
 
 ### Trust by default
 
