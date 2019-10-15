@@ -5,7 +5,7 @@ draft: false
 image: "images/fortune-cookie.jpg"
 ---
 
-![An open fortune cookie with the message "A plan you have been workin gon for a long time is beginning to take shape."](/images/fortune-cookie.jpg)
+![An open fortune cookie with the message "A plan you have been working on for a long time is beginning to take shape."](/images/fortune-cookie.jpg)
 
 When you’re building a product, it’s tough to avoid the distractions and stay focused. Getting your entire product development team on song is crucial to your success.
 
@@ -45,7 +45,7 @@ In [Shape Up](https://basecamp.com/shapeup), Ryan Singer makes the distinction b
 
 Of course, you do. I’m not delusional. Prefer [**themes** over **time-horizons**](https://www.prodpad.com/blog/how-to-build-a-product-roadmap-everyone-understands/). What does this mean? A theme relates to a customer need, a real, discovered need that you have uncovered. By defining your roadmap by themes, you leave scope to change and shift the definition of the features when you come to discover exactly what is needed. The closer the theme is to being needed to be done, the more in-depth you will define it. There is no point defining anything much further out. In 6 months, your whole landscape will have shifted. Invest the time only where it is essential to move things forward.
 
-## Appetite is key to this
+## Appetite is key
 
 Another theme highlighted in Shape Up is appetite. Before the team embarks on building a feature, they set the appetite for it. How core is it to the business? If it needs doing but is not a central feature, then it would have a low appetite. Get it done, but forgo the bells and whistle. A large appetite would be something that is the core problem that your product solves. So go the extra mile here. Ask whether it move your core metrics.
 
