@@ -2,6 +2,8 @@
 pink: #fc3498;
 blue: #70e5cb;
 yellow: #F8E71C;
+text: #212121;
+faded: #666666;
 *****/
 /***** BASE & TYPOGRAPHY *****/
 html,
@@ -43,6 +45,7 @@ h2 {
   font-weight: 700;
   font-style: normal;
   font-size: 2rem;
+  orphans: 2;
 }
 
 h2 {
@@ -147,7 +150,10 @@ p + h6 {
 .content img {
   box-shadow: 0 0 1px rgba(0, 0, 0, 0.2);
   display: block;
-  margin: 1em 0;
+}
+
+.content img:not([class]) {
+  margin: 1rem 0 2.5rem;
 }
 
 .bio img {
@@ -263,6 +269,7 @@ p + h6 {
 .h--highlight {
   display: inline-block;
   line-height: 1.25;
+  white-space: pre-wrap;
 }
 
 .h--highlight::after {
@@ -354,6 +361,18 @@ p + h6 {
   font-weight: bold;
 }
 
+.citation {
+  text-align: center;
+  font-size: 75%;
+  color: #666;
+  margin: 1rem 0 2.25rem;
+}
+.citation__image {
+  margin-bottom: 1rem;
+}
+.citation__source {
+}
+
 hr.section-divider {
   display: block;
   border: 0;
@@ -401,6 +420,15 @@ a:not([class])::after,
   width: 95%;
   height: 3px;
   background-color: #70e5cb;
+}
+
+.article a:not([class])::after {
+  margin-top: -3px;
+}
+
+.links > a::after,
+.link::after {
+  margin-top: -2px;
 }
 
 h2 > a:not([class])::after {
