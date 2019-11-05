@@ -1,11 +1,11 @@
 ---
 title: "Your engineering team is (probably) \ntoo big"
-date: 2019-11-04
+date: 2019-11-05
 image: "images/large-crowd.jpg"
 draft: false
 ---
 
-![Black and white image of a large crowd](/images/large-crowd.jpg)
+{{< cited_image src="/images/large-crowd.jpg" alt="Black and white image of a large crowd" author="Rob Curran" author_link="https://unsplash.com/@curranrob" source="Unsplash" source_link="https://unsplash.com/photos/sUXXO3xPBYo">}}
 
 Of all the places you can spend money in a tech company, the engineering team is often by far the largest cost-centre. Similar to digital ads, it’s also a place where, if you aren’t careful, you can waste a lot of money.
 
