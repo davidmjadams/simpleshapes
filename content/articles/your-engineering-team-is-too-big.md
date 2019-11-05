@@ -33,7 +33,7 @@ It’s an attractive fallacy, but it is a fallacy. Just because you are shipping
 
 ## Communication complexity
 
-{{< cited_image src="/images/communication-complexity.jpg" alt="Line of communication" author="Dave Nicolette" author_link="https://www.leadingagile.com/author/davenicolette/" source="Leading Agile" source_link="https://www.leadingagile.com/2018/02/applying-brooks-law/">}}
+{{< cited_image src="/images/communication-complexity.jpg" alt="Lines of communication illustration" author="Dave Nicolette" author_link="https://www.leadingagile.com/author/davenicolette/" source="Leading Agile" source_link="https://www.leadingagile.com/2018/02/applying-brooks-law/">}}
 
 Small teams have an incredibly low communication burden, with a team of two or three, everyone is within immediate reach. A consensus can be reached quickly, and ongoing debates to satisfy a room full of egos shouldn’t come into it. The more people you add, the more obfuscation happens, the further the team are from the real problems. More management burden, more planning time, more meetings. The longer you can resist this, the better.
 
