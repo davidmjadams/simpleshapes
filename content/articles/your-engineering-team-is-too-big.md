@@ -2,7 +2,7 @@
 title: "Your engineering team is (probably) \ntoo big"
 date: 2019-11-05
 image: "images/large-crowd.jpg"
-description: "Of all the places you can spend money in a tech company, the engineering team is often by far the largest cost-centre. Similar to digital ads, it’s also a place where, if you aren’t careful, you can waste a lot of money."
+summary: "Of all the places you can spend money in a tech company, the engineering team is often by far the largest cost-centre. Similar to digital ads, it’s also a place where, if you aren’t careful, you can waste a lot of money."
 draft: false
 ---
 
