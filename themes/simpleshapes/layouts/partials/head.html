@@ -2,7 +2,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <title>{{ if .Page.Title }}{{ .Page.Title }} - {{ end }}{{ .Site.Title }}</title>
-    <meta name="description" content="{{ $.Param "description" }}">
+    {{ if .Description }}
+        <meta name="description" content="{{ .Description }}">
+    {{ else if .IsPage }}
+    <meta name="description" content="{{ .Summary | plainify }}">
+    {{ end }}
     <link rel="stylesheet" href="/css/styles.css">
     <link rel="stylesheet" href="https://use.typekit.net/fdi8uzg.css">
     <link rel="preload" href="/images/menu/circle.svg" as="image">
