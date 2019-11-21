@@ -7,6 +7,9 @@
     {{ else if .IsPage }}
     <meta name="description" content="{{ .Summary | plainify }}">
     {{ end }}
+    {{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+    {{ end -}}
     <link rel="stylesheet" href="/css/styles.css">
     <link rel="stylesheet" href="https://use.typekit.net/fdi8uzg.css">
     <link rel="preload" href="/images/menu/circle.svg" as="image">
