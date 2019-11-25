@@ -1,5 +1,5 @@
 ---
-title: "Go left; great acquisition and onboarding trumps a great product"
+title: "Go left; great acquisition and onboarding beats a great product"
 date: 2019-11-25
 image: "images/go-left.jpg"
 description: "If a customer doesn’t completely understand how your product will improve their life and how they can start using it straight away, you will almost certainly lose them. You can have the best product hiding behind your onboarding, if users don’t make it that far it may as well not exist."
