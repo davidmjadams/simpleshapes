@@ -174,9 +174,6 @@ h2 + h3 {
   .header {
     padding: 1.5em;
   }
-  .content {
-    padding-top: 0;
-  }
 }
 @media (min-width: 800px) {
   .content {
@@ -196,11 +193,7 @@ h2 + h3 {
     height: 100vh;
     grid-gap: 1.5em;
     grid-template-columns: 1fr 3fr;
-    grid-template-rows: 50px auto 50px;
-    grid-template-areas:
-      "sidebar header"
-      "sidebar content"
-      "sidebar footer";
+    grid-template-areas: "sidebar content";
     background-color: #fff;
   }
 }
@@ -305,7 +298,8 @@ h2 + h3 {
   .bio {
     text-align: center;
   }
-  .bio > img {
+
+  .bio__image {
     max-width: 175px;
     margin-right: auto;
     margin-left: auto;
