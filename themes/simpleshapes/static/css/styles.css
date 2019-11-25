@@ -140,6 +140,12 @@ h2 + h3 {
   }
 }
 
+@media (max-width: 599px) {
+  .menu {
+    padding: 0.75em;
+  }
+}
+
 @media (min-width: 900px) {
   .menu {
     max-width: 315px;
@@ -174,6 +180,9 @@ h2 + h3 {
   .header {
     padding: 1.5em;
   }
+  .content {
+    padding-top: 0;
+  }
 }
 @media (min-width: 800px) {
   .content {
@@ -193,7 +202,11 @@ h2 + h3 {
     height: 100vh;
     grid-gap: 1.5em;
     grid-template-columns: 1fr 3fr;
-    grid-template-areas: "sidebar content";
+    grid-template-rows: 50px auto 50px;
+    grid-template-areas:
+      "sidebar header"
+      "sidebar content"
+      "sidebar footer";
     background-color: #fff;
   }
 }
@@ -298,7 +311,6 @@ h2 + h3 {
   .bio {
     text-align: center;
   }
-
   .bio__image {
     max-width: 175px;
     margin-right: auto;
