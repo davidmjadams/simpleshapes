@@ -6,7 +6,7 @@ description: "If a customer doesn’t completely understand how your product wil
 draft: false
 ---
 
-{{< cited_image src="/images/go-left.jpg" alt="White arrow pointing left" author="Nick Fewings" author_link="https://unsplash.com/@jannerboy62" source="Unsplash" source_link="https://images.unsplash.com/photo-1525081905268-fc0b46e9d786?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80">}}
+{{< cited_image src="/images/go-left.jpg" alt="White arrow on green brick, pointing left" author="Nick Fewings" author_link="https://unsplash.com/@jannerboy62" source="Unsplash" source_link="https://images.unsplash.com/photo-1525081905268-fc0b46e9d786?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80">}}
 
 Last year, I was fortunate enough to attend a [Design Sprint](https://www.thesprintbook.com/) workshop run by their creator [Jake Knapp](https://jakeknapp.com/). On Day one of the sprint, you create a map, where you outline the product journey and decide on which activity to focus.
 
