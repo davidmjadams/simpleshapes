@@ -30,7 +30,8 @@ Ideally daily or even hourly. Slow-release cycles and difficult release procedur
 
 ## Customer input-driven work
 
-{{< tweet 1057345856507207680 >}}
+
+{{< tweet 1057278999305641985 >}}
 Hopefully, this one is obvious. What percentage of work is driven by direct customer feedback? Even if you are a domain expert, you are not the customer. You are too close to the product to view through the eyes of a customer. Customers are great, as Jeff Bezos said “Customers are always beautifully, wonderfully dissatisfied”, they have stuff they want to get done and they don’t care much for your feelings. Listen deeply and try to solve their problems. Don’t let them tell you what to build though, they know their problems not necessarily what the best solution is. That’s your job.
 
 ## Iteration
