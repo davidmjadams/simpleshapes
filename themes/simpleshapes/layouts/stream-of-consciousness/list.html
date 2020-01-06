@@ -7,7 +7,11 @@
         <div>
           <h2 class="h--list"><a href="{{ .URL }}" id="{{ lower (replace .Title " " "-") }}">{{ .Title  }}</a></h2>
           <div class="subhead"><time>{{ .Date.Format "02 Jan 2006" }}</time></div>
-          {{ .Content }}
+          {{ if .Description }}
+            <p>{{ .Description }}</p>
+          {{ else  }}
+            <p>{{ .Summary }}</p>
+          {{ end }}
         </div>
       </div>
     </li>
