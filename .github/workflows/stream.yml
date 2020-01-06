@@ -16,19 +16,7 @@ jobs:
     # This job runs on Linux
     runs-on: ubuntu-latest
     steps:
-      name: "Hello World"
-      description: "Greet someone and record the time"
-      inputs:
-        who-to-greet: # id of input
-          description: "Who to greet"
-          required: true
-          default: "World"
-      outputs:
-        time: # id of output
-          description: "The time we greeted you"
-      runs:
-        using: "node12"
-        main: "greet.js"
+      - uses: ./github/actions/hello-world-javascript-action
   # thought:
   #   name: New Thought
   #   runs-on: ubuntu-latest
