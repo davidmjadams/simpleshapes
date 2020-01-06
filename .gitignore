@@ -3,4 +3,3 @@ themes/simpleshapes/static/images/.DS_Store
 public/*
 !public/_redirects
 node_modules/
-!.github/actions/hello-world-javascript-action/node_modules
