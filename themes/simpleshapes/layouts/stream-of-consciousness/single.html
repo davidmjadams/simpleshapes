@@ -1,0 +1,19 @@
+{{ define "content" }}
+<article class="article">
+  <header class="article__header">
+  <h1 class="h--highlight">{{ .Title }}</h1>
+  {{ if not .Date.IsZero }}
+  <div class="subhead">
+    <time>{{ .Date.Format "02 Jan 2006" }}</time> &bull; {{ .ReadingTime }} min read
+  </div>
+  {{ end }}
+</header>
+  <div class="article__content">
+    {{ .Content }}
+  </div>
+</article>
+<div class="more-link">
+  <a href="/thoughts">View all thoughts</a>
+</div>
+{{- partial "contact.html" (dict "location" "footer" ) -}}
+{{ end }}
