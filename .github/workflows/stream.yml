@@ -1,12 +1,13 @@
-name: Greet Everyone
+name: Thought Stream
 # This workflow is triggered on pushes to the repository.
 on:
-  push:
-    branches:
-      - actions
-    # file paths to consider in the event. Optional; defaults to all.
-    paths:
-      - "content/stream-of-consciousness/*"
+  [push]
+  # push:
+  #   branches:
+  #     - actions
+  #   # file paths to consider in the event. Optional; defaults to all.
+  #   paths:
+  #     - "content/stream-of-consciousness/*"
 
 jobs:
   build:
@@ -17,10 +18,19 @@ jobs:
     steps:
       # This step uses GitHub's hello-world-javascript-action: https://github.com/actions/hello-world-javascript-action
       - name: Hello world
-        uses: actions/hello-world-javascript-action@v1
+        runs:
+          using: "node12"
+          main: "greet.js"
+
         with:
-          who-to-greet: "Mona the Octocat"
+          who-to-greet: "Blobby the blobfish"
         id: hello
       # This step prints an output (time) from the previous step's action.
       - name: Echo the greeting's time
         run: echo 'The time was ${{ steps.hello.outputs.time }}.'
+  # thought:
+  #   name: New Thought
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     # - uses: ./.github/actions/new-thought
+  #     - run: ./stream.js

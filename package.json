@@ -1,0 +1,23 @@
+{
+  "name": "simpleshapes",
+  "version": "1.0.0",
+  "description": "## Running dev",
+  "dependencies": {},
+  "devDependencies": {
+    "@actions/core": "^1.2.0",
+    "@actions/github": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hungrydavid/simpleshapes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hungrydavid/simpleshapes/issues"
+  },
+  "homepage": "https://github.com/hungrydavid/simpleshapes#readme"
+}
