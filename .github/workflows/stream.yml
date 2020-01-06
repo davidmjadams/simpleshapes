@@ -10,13 +10,6 @@ on:
   #     - "content/stream-of-consciousness/*"
 
 jobs:
-  build:
-    name: Greeting
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v1
-      - uses: ./.github/actions/hello-world-javascript-action
   hello_world_job:
     runs-on: ubuntu-latest
     name: A job to say hello
@@ -31,10 +24,10 @@ jobs:
       # Use the output from the `hello` step
       - name: Get the output time
         run: echo "The time was ${{ steps.hello.outputs.time }}"
-      # thoughts:
-  #   name: Thoughts
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - name: Checkout
-  #       uses: actions/checkout@v1
-  #     - uses: ./.github/actions/new-thought
+  thoughts:
+    name: Thoughts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+      - uses: ./.github/actions/new-thought
