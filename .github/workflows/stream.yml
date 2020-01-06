@@ -1,6 +1,8 @@
 name: Greet Everyone
 # This workflow is triggered on pushes to the repository.
 on: [push]
+  paths:
+    - 'content/stream-of-consciousness'
 
 jobs:
   build:
