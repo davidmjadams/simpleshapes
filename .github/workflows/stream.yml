@@ -1,7 +1,7 @@
 name: Thought Stream
 # This workflow is triggered on pushes to the repository.
 on:
-  [push]
+  push
   # push:
   #   branches:
   #     - actions
@@ -18,7 +18,7 @@ jobs:
     steps:
       # This step uses GitHub's hello-world-javascript-action: https://github.com/actions/hello-world-javascript-action
       - name: Hello world
-        runs:
+        run:
           using: "node12"
           main: "greet.js"
 
