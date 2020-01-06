@@ -1,5 +1,5 @@
 ---
-title: “Writing in 2020”
+title: 'Writing in 2020'
 date: 2020-01-06
 draft: false
 ---
