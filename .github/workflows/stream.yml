@@ -6,7 +6,7 @@ on:
       - actions
     # file paths to consider in the event. Optional; defaults to all.
     paths:
-      - "content/stream-of-consciousness"
+      - "content/stream-of-consciousness/*"
 
 jobs:
   build:
