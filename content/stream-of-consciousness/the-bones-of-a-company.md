@@ -1,6 +1,6 @@
 ---
 title: "The bones of a company"
-date: 2020-01-08T17:24:00Z
+date: 2020-01-08T16:24:00Z
 draft: false
 ---
 
