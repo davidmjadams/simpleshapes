@@ -1,6 +1,6 @@
 ---
 title: "Everyone's a venture capitalist"
-date: 2020-01-09T09:14:00Z
+date: 2020-01-09T10:14:00Z
 draft: false
 ---
 
@@ -13,4 +13,3 @@ The same thing was evident in the Crypto crash in early 2018. Everyone seemed to
 I can't help notice a similar parallel in the VC world today. Twitter is covered in startup advice from newly minted VC firms. Vast sums of cash have been flooding in, but what happens when the returns falter? The scramble to invest has led to some questionable models getting funded.
 
 Many of the tech IPOs have faltered, not to mention the WeWork debacle. A few more of those and confidence could be knocked way down the chain.
-
