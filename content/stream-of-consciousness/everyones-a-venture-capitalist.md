@@ -6,7 +6,7 @@ draft: false
 
 JFK's father, Joe Kennedy, made a lot of money in the 1929 stock market crash.
 
-His the shoeshine boy offered him some stock tips, he figured when even the shoeshine boys have tips, the market is too popular for its own good — this proved to be correct.
+The shoeshine boy offered him some stock tips, he figured when even the shoeshine boys have tips, the market is too popular for its own good — this proved to be correct.
 
 The same thing was evident in the Crypto crash in early 2018. Everyone seemed to be offering advice — not long after they all tanked.
 
