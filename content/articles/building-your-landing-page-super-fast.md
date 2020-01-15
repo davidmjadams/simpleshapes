@@ -1,7 +1,7 @@
 ---
 title: "Build and launch your startup landing page in a day, with little to no coding required"
 date: 2019-02-01
-draft: false
+draft: true
 description: "A guide on how to build and launch a landing page for your new product. In very little time."
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Rethinking the product roadmap"
 date: 2019-05-01T09:17:27Z
-draft: false
+draft: true
 description: "Thoughts on the failings of standard approaches to product roadmaps and the potential of hill charts."
 ---
 
