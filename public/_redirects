@@ -5,3 +5,9 @@ https://www.davidmjadams.co.uk/* https://simpleshapes.io/:splat 301!
 
 # Optional: Redirect default Netlify subdomain to primary domain
 https://simpleshapes.netlify.com/* https://simpleshapes.io/:splat 301!
+
+# Move everything to articles
+
+https://simpleshapes.io/stream-of-consciousness/the-bones-of-a-company/ https://simpleshapes.io/articles/the-bones-of-a-company/ 301!
+
+https://simpleshapes.io/stream-of-consciousness/everyones-a-venture-capitalist/ https://simpleshapes.io/articles/everyones-a-venture-capitalist/ 301!
