@@ -7,8 +7,8 @@ description: "SimpleShapes, the home of David Adams"
 
 # Hi, I'm David
 
-I'm a product manager, software engineer and sometime designer, currently helping to build future giants at <a href="https://www.kametventures.com/">Kamet Ventures</a>. I love building startups and solving complex problems.
+Chief Product Officer & Co-Founder @ <a href="https://www.poncho.care/">Poncho</a>. I have deep experience building products, with a particular expertise in early stage startups. I'm a product leader and sometime software engineer & designer.
 
-I try to combine <a href="https://jtbd.info/">jobs to be done</a>, <a href="https://en.wikipedia.org/wiki/Lean_software_development">lean software delivery</a> and <a href="https://www.interaction-design.org/literature/article/5-stages-in-the-design-thinking-process">design thinking</a> to build products that are useful, ethical and beautiful.
+I combine <a href="https://jtbd.info/">jobs to be done</a> and <a href="https://en.wikipedia.org/wiki/Lean_software_development">lean software delivery</a> to <a href="https://amplitude.com/north-star">follow a north star metric</a>. Building products that are useful, ethical and beautiful.
 
 I ❤️ making <a href="/logos">logos</a> for fun.
