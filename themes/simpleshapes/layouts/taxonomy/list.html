@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html ⚡ lang="en">
+  {{- partial "head.html" . -}}
+  <body>
+    <div class="wrapper">
+      {{- partial "header.html" . -}}
+      {{- partial "menu.html" . -}}
+      <div  class="content">
+        <section>
+          <h1 class="h--highlight">Tag: {{ .Title }}</h1>
+          <ul class="ui-list">
+            {{ range .Pages}}
+            <li>
+              <div>
+                <div>
+                  <h2 class="h--list"><a href="{{ .Permalink }}">{{ .Title  }}</a></h2>
+                  <div class="subhead"><time>{{ .Date.Format "02 Jan 2006" }}</time></div>
+                </div>
+              </div>
+            </li>
+            {{ end }}
+          </ul>
+        </section>
+      </div>
+      {{- partial "footer.html" . -}}
+    </div>
+  </body>
+</html>

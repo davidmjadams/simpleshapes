@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html ⚡ lang="en">
+  {{- partial "head.html" . -}}
+  <body>
+    <div class="wrapper">
+      {{- partial "header.html" . -}}
+      {{- partial "menu.html" . -}}
+      <div  class="content">
+
+<section>
+  <h1 class="h--highlight">Tags</h1>
+  <ul class="ui-list">
+    {{ range .Data.Terms.Alphabetical }}
+      <li>
+        <h2 class="h--list">
+          <a href="{{ .Page.Permalink }}">{{ .Page.Title }} ({{ .Count }})</a>
+        </h2>
+      </li>
+    {{ end }}
+  </ul>
+</section>
+
+</div>
+{{- partial "footer.html" . -}}
+</div>
+</body>
+</html>
