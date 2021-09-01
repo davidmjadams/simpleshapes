@@ -7,6 +7,11 @@
     <time>{{ .Date.Format "02 Jan 2006" }}</time> &bull; {{ .ReadingTime }} min read
   </div>
   {{ end }}
+  <ul class="tags">
+    {{ range (.GetTerms "tags") }}
+        <li class="tags__{{ .LinkTitle }}"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+</ul>
 </header>
   <div class="article__content">
     {{ .Content }}

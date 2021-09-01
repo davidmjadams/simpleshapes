@@ -21,3 +21,6 @@ anchor = "smart"
 
 [params]
 twitter = "@hungrydavid"
+
+[markup.goldmark.renderer]
+unsafe= true

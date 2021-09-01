@@ -1,6 +1,7 @@
 /***** COLOUR REFERENCE
 pink: #fc3498;
-blue: #70e5cb;
+light blue: #70e5cb;
+dark blue: #349cfc;
 yellow: #F8E71C;
 text: #212121;
 faded: #666666;
@@ -353,6 +354,41 @@ h2 + h3 {
 .article__content > h1 {
   font-size: 1.778rem;
   margin-bottom: 1rem;
+}
+
+.tags {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0;
+  font-size: 0.722rem;
+  font-family: itc-avant-garde-gothic-pro, sans-serif;
+}
+
+.tags > li {
+  display: inline-block;
+}
+.tags > li a {
+  display: inline-block;
+  border-radius: 3px;
+  line-height: 1;
+  padding: 3px 5px;
+  background: #349cfc;
+}
+
+.tags > .tags__product a {
+  background: #fc3498;
+}
+
+.tags > .tags__startups a {
+  background: #70e5cb;
+}
+
+.tags > .tags__stream a {
+  background: #f8e71c;
+}
+
+.tags > li a::after {
+  display: none;
 }
 
 @media (max-width: 899px) {

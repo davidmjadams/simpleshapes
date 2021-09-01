@@ -4,6 +4,7 @@ date: 2019-11-25
 image: "images/go-left.jpg"
 description: "If a customer doesn’t completely understand how your product will improve their life and how they can start using it straight away, you will almost certainly lose them. You can have the best product hiding behind your onboarding, if users don’t make it that far it may as well not exist."
 draft: false
+tags: ["startups", "product"]
 ---
 
 {{< cited_image src="/images/go-left.jpg" alt="White arrow on green brick, pointing left" author="Nick Fewings" author_link="https://unsplash.com/@jannerboy62" source="Unsplash" source_link="https://images.unsplash.com/photo-1525081905268-fc0b46e9d786?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80">}}

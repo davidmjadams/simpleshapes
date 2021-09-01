@@ -1,7 +1,7 @@
 ---
 title: "Everyone's a venture capitalist"
 date: 2020-01-09T10:14:00Z
-draft: false
+draft: true
 tags: "stream"
 ---
 
