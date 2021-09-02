@@ -2,6 +2,7 @@
 title: "The best product is no product"
 date: 2019-09-27
 draft: false
+tags: "product"
 description: "The best product is no product. The best UX is no UX. The best code is no code. Pretty much everything I, and probably you, have worked on would be better if it wasn’t there."
 image: "images/blank-slate.jpg"
 ---

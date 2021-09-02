@@ -2,6 +2,7 @@
 title: "The red alert approach to product development"
 date: 2019-08-23
 draft: false
+tags: "product"
 description: "Building products is hard, the Command & Conquer: Red Alert approach to product development keeps me sane."
 image: "images/command-and-conquer.jpg"
 ---
@@ -29,7 +30,6 @@ Can all team members tell you how what they are working on helps the long-term s
 Ideally daily or even hourly. Slow-release cycles and difficult release procedures are a warning sign that something isn’t healthy. Is the state of the software unpredictable, are you not sure how one change might affect another part of the system? If you have the confidence to release whenever you want, you can adapt to change at a moments notice. If you want to ship a new feature quickly, you don’t want your infrastructure standing in your way. A strong [CI](https://en.wikipedia.org/wiki/Continuous_integration)/[CD](https://en.wikipedia.org/wiki/Continuous_delivery) setup will help no-end in enforcing this.
 
 ## Customer input-driven work
-
 
 {{< tweet 1057278999305641985 >}}
 Hopefully, this one is obvious. What percentage of work is driven by direct customer feedback? Even if you are a domain expert, you are not the customer. You are too close to the product to view through the eyes of a customer. Customers are great, as Jeff Bezos said “Customers are always beautifully, wonderfully dissatisfied”, they have stuff they want to get done and they don’t care much for your feelings. Listen deeply and try to solve their problems. Don’t let them tell you what to build though, they know their problems not necessarily what the best solution is. That’s your job.

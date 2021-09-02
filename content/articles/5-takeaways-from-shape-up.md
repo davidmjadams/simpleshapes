@@ -2,6 +2,7 @@
 title: "5 takeaways from Shape Up"
 date: 2019-07-25
 draft: false
+tags: "product"
 description: "Takeaways from Shape Up: Stop Running in Circles and Ship Work that Matters, by Ryan Singer"
 ---
 

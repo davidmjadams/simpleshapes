@@ -2,7 +2,7 @@
 title: "The bones of a company"
 date: 2020-01-10T16:47:00Z
 draft: false
-tags: "stream"
+tags: "thoughts"
 ---
 
 In my experience, it takes somewhere between eighteen months and two years to see the bones of a company. What it’s really like, what drives it.

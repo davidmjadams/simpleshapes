@@ -2,6 +2,7 @@
 title: "Building a successful MVP"
 date: 2018-12-17
 draft: false
+tags: ["startups", "product"]
 description: "How to build a minimum viable product without wasting time and losing focus."
 ---
 
