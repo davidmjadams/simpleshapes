@@ -12,16 +12,16 @@
         {{- partial "contact.html" (dict "location" "page" ) -}}
       </section>
       <section>
-        {{ $pages := where .Pages "Section" "articles"}}
+        {{ $pages := where .Site.RegularPages "Section" "articles"}}
         {{ if len $pages }}
         <h1>Recent Articles</h1>
         {{end}}
         <ul class="ui-list">
-          {{ range first 5 (where .Pages.ByDate.Reverse "Section" "articles") }}
+          {{ range first 5 (where .Site.RegularPages.ByDate.Reverse "Section" "articles") }}
           <li>
             <div>
               <div>
-                <h2 class="h--list"><a href="{{ .URL }}">{{ .Title }}</a></h2>
+                <h2 class="h--list"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                 <div class="subhead"><time>{{ .Date.Format "02 Jan 2006" }}</time></div>
               </div>
             </div>
