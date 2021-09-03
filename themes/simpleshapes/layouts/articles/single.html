@@ -17,8 +17,10 @@
     {{ .Content }}
   </div>
 </article>
-<div class="more-link">
-  <a href="/articles">View all articles</a>
+<div class="push-lg--top">
+  <div class="more-link">
+    <a href="/articles">View all articles</a>
+  </div>
 </div>
 {{- partial "contact.html" (dict "location" "footer" ) -}}
 {{ end }}
