@@ -1,7 +1,7 @@
 ---
 title: "How we've embraced One-Pagers at Poncho"
-date: 2021-09-01
-draft: true
+date: 2021-09-10
+draft: false
 tags: ["product", "startups", "process"]
 description: "For a while now at Poncho, we've been using One-Pagers to document product themes and assess priorities. We use these themes in tandem with the North Star Framework, to tie everything back to customer and business goals. It's working out well."
 image: "images/one-pager.jpg"
