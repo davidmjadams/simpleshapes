@@ -1,6 +1,6 @@
 ---
 title: "How we've embraced One-Pagers at Poncho"
-date: 2021-09-10
+date: 2021-09-01
 draft: true
 tags: ["product", "startups", "process"]
 description: "For a while now at Poncho, we've been using One-Pagers to document product themes and assess priorities. We use these themes in tandem with the North Star Framework, to tie everything back to customer and business goals. It's working out well."
@@ -23,9 +23,9 @@ We've been using variations of this format with success for a while. If some of 
 
 Below is the template that our one-pagers start from (we don't always use all sections), with explanations of what is expected in each section.
 
-We use these to write-up themes, which are high-level bodies of work — based on user outcomes rather than features. Themes are then made up of features, which have a simpler format. Once we have the required understanding of the problem and how we want to approach solving it.
+We use these to write-up themes, which are high-level bodies of work — based on user outcomes rather than features. Once we have the required understanding of the problem, we write up a selection of user stories, which have a simpler format. We've avoided the common _As a user, I would like, So that_ format. While I understand the good intention this format has, I have so often seen it misused so that all you end up with is a feature requirement with a bunch of filler words. We've stuck to a simple, plain english descriptions. So far, so good.
 
-A key point here is that the features still don't start as "build exactly this", but give a general problem to solve and some boundaries. Features probably isn't be the best name, but it's a work in progress.
+A key point here is that the stories still don't start as "build exactly this", but give a general problem to solve and some boundaries, in the context of the user and their problem.
 
 I've learnt a few lessons so far. In an early-stage startup, you often can't justify decisions with hard data — you'd mostly be data dredging and finding patterns in anomalies. You have to rely more on qualitative sources (user interviews, customer feedback) and even gut instinct. As you scale and have enough customers and data to meaningfully benchmark with quant data you can add this to your arsenal and make a solid case based on numbers.
 
@@ -95,7 +95,7 @@ What do we unlock by moving on this now? What would happen if we waited 6 weeks?
 
 ---
 
-# Feature template
+# Story template
 
 ## What is the desired user outcome?
 
@@ -112,3 +112,5 @@ Which North star input does this relate to? How will this affect it?
 ## What’s the cost of delay?
 
 What will happen if we don’t do this now, this week, this month, at all?
+
+---
