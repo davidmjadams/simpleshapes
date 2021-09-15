@@ -13,7 +13,7 @@ _If you just want to see the one-pager template we use, skip to the bottom of th
 
 I've been from the school of _what problem are we actually trying to solve_ for as long as I can remember. But this was more in the conversations we were having, rather than anything too strategic. We'd do the research, have the questions and debate, then everything would go into JIRA (sorry) as a story. Losing the fidelity and nuance.
 
-For a while now at [Poncho](https://poncho.care), we've been using [One-Pagers](https://www.productplan.com/learn/product-one-pager/#:~:text=A%20product%20one%2Dpager%20makes,confidence%20in%20the%20decision%2Dmaker) to document product themes and assess priorities. We use these themes in tandem with the [North Star Framework](https://info.amplitude.com/north-star-playbook), to tie everything back to customer and business goals. These then go into a [Now, Next Later roadmap](https://www.prodpad.com/blog/how-to-build-a-product-roadmap-everyone-understands/). It's working out well.
+For a while now at [Poncho](https://poncho.care), we've been using [One-Pagers](https://www.productplan.com/learn/product-one-pager/#:~:text=A%20product%20one%2Dpager%20makes,confidence%20in%20the%20decision%2Dmaker) to document product themes and assess priorities. We use these themes in tandem with the [North Star Framework](https://info.amplitude.com/north-star-playbook), to tie everything back to customer and business goals. These then go into a [Now, Next, Later roadmap](https://www.prodpad.com/blog/how-to-build-a-product-roadmap-everyone-understands/). It's working out well.
 
 When I started looking into it, I struggled to find many examples of one-pagers people were using in the wild. So I thought it might help someone, somewhere if I shared mine.
 
