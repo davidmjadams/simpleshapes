@@ -23,7 +23,7 @@ We've been using variations of this format with success for a while. If some of 
 
 Below is the template that our one-pagers start from (we don't always use all sections), with explanations of what is expected in each section.
 
-We use these to write-up themes, which are high-level bodies of work — based on user outcomes rather than features. Once we have the required understanding of the problem, we write up a selection of user stories, which have a simpler format. We've avoided the common _As a user, I would like, So that_ format. While I understand the good intention this format has, I have so often seen it misused so that all you end up with is a feature requirement with a bunch of filler words. We've stuck to a simple, plain english descriptions. So far, so good.
+We use these to write-up themes, which are high-level bodies of work — based on user outcomes rather than features. Once we have the required understanding of the problem, we write up a selection of user stories, which have a simpler format. We've avoided the common _As a user, I would like, So that_ format. While I understand the good intention this format has, I have so often seen it misused so that all you end up with is a feature requirement with a bunch of filler words. We've stuck to simple, plain English descriptions. So far, so good.
 
 A key point here is that the stories still don't start as "build exactly this", but give a general problem to solve and some boundaries, in the context of the user and their problem.
 
