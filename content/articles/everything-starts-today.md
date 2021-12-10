@@ -4,6 +4,7 @@ date: 2021-12-07
 draft: false
 tags: ["product", "startups", "process"]
 image: "images/begin-skateboarder.jpg"
+description: "I've spent the past god-knows-how-long working in the startup world. I love it. I also hate it sometimes. It's a never-ending stream of hard problems. Every success uncovers the next hard problem, then feels less like a success. It's hard not to be beaten down by it from time to time."
 ---
 
 ![Skateboarder about to start skating](/images/begin-skateboarder.jpg)
