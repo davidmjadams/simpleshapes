@@ -9,7 +9,7 @@ tags: ["startups", "product"]
 
 {{< cited_image src="/images/go-left.jpg" alt="White arrow on green brick, pointing left" author="Nick Fewings" author_link="https://unsplash.com/@jannerboy62" source="Unsplash" source_link="https://images.unsplash.com/photo-1525081905268-fc0b46e9d786?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80">}}
 
-Last year, I was fortunate enough to attend a [Design Sprint](https://www.thesprintbook.com/) workshop run by their creator [Jake Knapp](https://jakeknapp.com/). On Day one of the sprint, you create a map, where you outline the product journey and decide on which activity to focus.
+Last year, I was fortunate enough to attend a [Design Sprint](https://www.thesprintbook.com) workshop run by their creator [Jake Knapp](https://jakeknapp.com/). On Day one of the sprint, you create a map, where you outline the product journey and decide on which activity to focus.
 
 To get things moving, the map starts with a high-level skeleton, using the actions: discover, learn, start. Framing the steps a user may take into broad categories. It’s helpful to get things moving and offers a framework for the team to work with. Once the map is drawn out, and the team is happy with it, you pick a target. This target will be the focus of the sprint. It could be a core product interaction, onboarding, acquisition etc. There was something Jake said when introducing this section that has stuck with me ever since. I’m paraphrasing, but he said if you are unsure where to focus, or you are stuck deciding between two areas - **go left**.
 
