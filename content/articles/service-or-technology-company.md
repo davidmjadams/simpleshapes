@@ -1,6 +1,6 @@
 ---
 title: "Are you starting a service or technology company?"
-date: 2022-01-26T09:47:00Z
+date: 2022-01-26T16:47:00Z
 draft: false
 tags: "thoughts"
 ---
