@@ -6,6 +6,8 @@ tags: ["AI", "thoughts"]
 image: "images/ai-ocean.jpg"
 ---
 
+{{< cited_image src="/images/ai-ocean.jpg" alt="White arrow on green brick, pointing left" author="Jeremy Bishop" author_link="https://unsplash.com/@jeremybishop" source="Unsplash" source_link="https://images.unsplash.com/photo-1502209524164-acea936639a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80">}}
+
 A wave is coming. If you don't learn to surf now, you will be swallowed up and left for nothing. The wave is AI.
 
 ## This isn't true
