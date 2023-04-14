@@ -48,7 +48,7 @@ A world of new possibilities is coming. It doesn't matter whether it starts with
 
 ## Original prompt
 
-I wrote this on a plane, seeing as I'm writing about AI I thought I'd practice what I'm preaching. I used GPT-4 as my editor, below is the starting prompt I used to tweak the text.
+I wrote this on a plane. Seeing as I'm writing about AI, I thought I'd practice what I'm preaching. I used GPT-4 as my editor; below is the starting prompt I used to tweak the text.
 
 You are my copy editor. Please provider grammatical and structural improvement suggestions for the below text.
 
