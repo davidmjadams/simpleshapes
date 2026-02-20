@@ -7,8 +7,11 @@ description: "SimpleShapes, the home of David Adams"
 
 # Hi, I'm David
 
-Chief Product Officer & Co-Founder @ <a href="https://www.poncho.care/">Poncho</a>. I'm a product leader and sometime software engineer & designer.
+I build software products and the teams behind them.
 
-I have built up a deep experience building and leading user centered products over the past 15 years. My experience covers startups to enterprise, I’ve taken products from day zero to successful growth and worked with world leading companies. I have a particular expertise in zero-to-one products and startups.
+I'm currently Chief Product Officer & Co-Founder @ <a href="https://www.ponchopay.com/">PonchoPay</a>, where we’ve built a fintech platform that processes tens of millions in childcare payments each year.
 
-I combine <a href="https://jtbd.info/">jobs to be done</a> and <a href="https://en.wikipedia.org/wiki/Lean_software_development">lean software delivery</a> to <a href="https://amplitude.com/north-star">follow a north star metric</a> &#x1F31F;. Building products that are useful, ethical and beautiful.
+Over 20 years, I’ve taken products from day zero to successful growth and worked with world-leading companies. I have a particular expertise in zero-to-one products and startups.
+
+This site is where I share lessons and observations along the way, while building real systems — from early-stage startups to scaling production platforms — including product strategy, software engineering, and the practical application of AI and agents.
+
