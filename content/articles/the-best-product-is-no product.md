@@ -21,7 +21,7 @@ What they want is to achieve a goal. That might be a social goal – connecting 
 
 ## Don’t create the wrong thing
 
-{{< tweet 832640027314225152 >}}
+{{< x user="internetofshit" id="832640027314225152" >}}
 Nobody needs an internet-connected gas hob.
 
 There is a big difference between the things people will buy and the things that they need. There is also a big difference in the mindset of companies that are creating products in either of those categories.
@@ -57,7 +57,7 @@ Software takes time to build, takes time to change and takes time to improve. It
 
 ## Focus on outcomes
 
-{{< tweet 1175483723946455040 >}}
+{{< x user="johncutlefish" id="1175483723946455040" >}}
 It’s unbelievable how so many people are happy to throw vast sums of money at rushing towards a hastily constructed roadmap. All without really knowing whether this will produce the needed outcome. Tell these people you need to spend more time planning or researching, you will likely be met with a blank stare. This is the reality of countless companies of all sizes.
 
 ## Stay nimble

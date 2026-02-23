@@ -13,5 +13,5 @@ I'm currently Chief Product Officer & Co-Founder @ <a href="https://www.ponchopa
 
 Over 20 years, I’ve taken products from day zero to successful growth and worked with world-leading companies. I have a particular expertise in zero-to-one products and startups.
 
-This site is where I share lessons and observations along the way, while building real systems — from early-stage startups to scaling production platforms — including product strategy, software engineering, and the practical application of AI and agents.
+This is my space to think out loud and share lessons and observations on product strategy, software engineering, and the practical application of AI and agents.
 
