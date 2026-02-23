@@ -9,7 +9,7 @@ description: "SimpleShapes, the home of David Adams"
 
 I build software products and the teams behind them.
 
-I'm currently Chief Product Officer & Co-Founder @ <a href="https://www.ponchopay.com/">PonchoPay</a>, where we’ve built a fintech platform that processes tens of millions in childcare payments each year.
+I'm CPTO and Co-Founder @ <a href="https://www.ponchopay.com/">PonchoPay</a>, where we’ve built a fintech platform that processes tens of millions in childcare payments each year.
 
 Over 20 years, I’ve taken products from day zero to successful growth and worked with world-leading companies. I have a particular expertise in zero-to-one products and startups.
 
