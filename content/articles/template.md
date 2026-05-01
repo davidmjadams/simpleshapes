@@ -1,8 +1,8 @@
 ---
 title: "Title"
-date: 2020-06-21
+date: 2026-02-06
 draft: true
-tags: "product"
+tags: ["product", "engineering"]
 description: ""
 image: "images/some-image.jpg"
 ---
